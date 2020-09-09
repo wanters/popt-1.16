@@ -1,0 +1,1258 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run aclocal-1.11$/;"	m	language:Make
+ACLOCAL	auto/Makefile	/^ACLOCAL = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run aclocal-1.11$/;"	m	language:Make
+ACLOCAL	m4/Makefile	/^ACLOCAL = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run aclocal-1.11$/;"	m	language:Make
+ACLOCAL_AMFLAGS	Makefile	/^ACLOCAL_AMFLAGS = -I m4$/;"	m	language:Make
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m	language:Make
+ACLOCAL_M4	auto/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m	language:Make
+ACLOCAL_M4	m4/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m	language:Make
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run tar$/;"	m	language:Make
+AMTAR	auto/Makefile	/^AMTAR = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run tar$/;"	m	language:Make
+AMTAR	m4/Makefile	/^AMTAR = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run tar$/;"	m	language:Make
+AM_CPPFLAGS	Makefile	/^AM_CPPFLAGS = -I. -I$(top_srcdir)$/;"	m	language:Make
+AM_RECURSIVE_TARGETS	Makefile	/^AM_RECURSIVE_TARGETS = $(RECURSIVE_TARGETS:-recursive=) \\$/;"	m	language:Make
+AR	Makefile	/^AR = ar$/;"	m	language:Make
+AR	auto/Makefile	/^AR = ar$/;"	m	language:Make
+AR	m4/Makefile	/^AR = ar$/;"	m	language:Make
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run autoconf$/;"	m	language:Make
+AUTOCONF	auto/Makefile	/^AUTOCONF = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run autoconf$/;"	m	language:Make
+AUTOCONF	m4/Makefile	/^AUTOCONF = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run autoconf$/;"	m	language:Make
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run autoheader$/;"	m	language:Make
+AUTOHEADER	auto/Makefile	/^AUTOHEADER = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run autoheader$/;"	m	language:Make
+AUTOHEADER	m4/Makefile	/^AUTOHEADER = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run autoheader$/;"	m	language:Make
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run automake-1.11$/;"	m	language:Make
+AUTOMAKE	auto/Makefile	/^AUTOMAKE = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run automake-1.11$/;"	m	language:Make
+AUTOMAKE	m4/Makefile	/^AUTOMAKE = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run automake-1.11$/;"	m	language:Make
+AUTOMAKE_OPTIONS	Makefile	/^AUTOMAKE_OPTIONS = 1.4 foreign$/;"	m	language:Make
+AUTOMAKE_OPTIONS	auto/Makefile	/^AUTOMAKE_OPTIONS = 1.4 foreign$/;"	m	language:Make
+AUTOTEST	auto/Makefile	/^AUTOTEST = api-sanity-autotest.pl$/;"	m	language:Make
+AWK	Makefile	/^AWK = mawk$/;"	m	language:Make
+AWK	auto/Makefile	/^AWK = mawk$/;"	m	language:Make
+AWK	m4/Makefile	/^AWK = mawk$/;"	m	language:Make
+BUILT_SOURCES	Makefile	/^BUILT_SOURCES = popt.pc # popt.lcd$/;"	m	language:Make
+CATALOGS	po/Makefile	/^CATALOGS =  cs.gmo da.gmo de.gmo eo.gmo es.gmo fi.gmo fr.gmo ga.gmo gl.gmo hu.gmo id.gmo is.gmo it.gmo ja.gmo ko.gmo lv.gmo nb.gmo nl.gmo pl.gmo pt.gmo ro.gmo ru.gmo sk.gmo sl.gmo sv.gmo th.gmo tr.gmo uk.gmo vi.gmo wa.gmo zh_TW.gmo zh_CN.gmo$/;"	m	language:Make
+CBF_ISSET	poptint.h	91;"	d	language:C++
+CC	Makefile	/^CC = gcc$/;"	m	language:Make
+CC	auto/Makefile	/^CC = gcc$/;"	m	language:Make
+CC	m4/Makefile	/^CC = gcc$/;"	m	language:Make
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m	language:Make
+CCDEPMODE	auto/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m	language:Make
+CCDEPMODE	m4/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m	language:Make
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m	language:Make
+CFLAGS	Makefile	/^CFLAGS = -g -O2 -Wall -W -D_GNU_SOURCE -D_REENTRANT$/;"	m	language:Make
+CFLAGS	auto/Makefile	/^CFLAGS = -g -O2 -Wall -W -D_GNU_SOURCE -D_REENTRANT$/;"	m	language:Make
+CFLAGS	m4/Makefile	/^CFLAGS = -g -O2 -Wall -W -D_GNU_SOURCE -D_REENTRANT$/;"	m	language:Make
+CFLocaleCopyCurrent	configure	/^CFLocaleCopyCurrent();$/;"	f	language:Sh
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m	language:Make
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES = Doxyfile popt.pc popt.spec test-poptrc$/;"	m	language:Make
+CONFIG_CLEAN_FILES	auto/Makefile	/^CONFIG_CLEAN_FILES = desc types$/;"	m	language:Make
+CONFIG_CLEAN_FILES	m4/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m	language:Make
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m	language:Make
+CONFIG_CLEAN_VPATH_FILES	auto/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m	language:Make
+CONFIG_CLEAN_VPATH_FILES	m4/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m	language:Make
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = config.h$/;"	m	language:Make
+CONFIG_HEADER	auto/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m	language:Make
+CONFIG_HEADER	m4/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m	language:Make
+COPYRIGHT_HOLDER	po/Makefile	/^COPYRIGHT_HOLDER =$/;"	m	language:Make
+CPP	Makefile	/^CPP = gcc -E$/;"	m	language:Make
+CPP	auto/Makefile	/^CPP = gcc -E$/;"	m	language:Make
+CPP	m4/Makefile	/^CPP = gcc -E$/;"	m	language:Make
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m	language:Make
+CPPFLAGS	auto/Makefile	/^CPPFLAGS = $/;"	m	language:Make
+CPPFLAGS	m4/Makefile	/^CPPFLAGS = $/;"	m	language:Make
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m	language:Make
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m	language:Make
+CYGPATH_W	auto/Makefile	/^CYGPATH_W = echo$/;"	m	language:Make
+CYGPATH_W	m4/Makefile	/^CYGPATH_W = echo$/;"	m	language:Make
+DATA	Makefile	/^DATA = $(pkgconfig_DATA)$/;"	m	language:Make
+DBL_EPSILON	popt.c	1273;"	d	language:C	file:
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I.$/;"	m	language:Make
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m	language:Make
+DEFS	auto/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m	language:Make
+DEFS	m4/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m	language:Make
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m	language:Make
+DEPDIR	auto/Makefile	/^DEPDIR = .deps$/;"	m	language:Make
+DEPDIR	m4/Makefile	/^DEPDIR = .deps$/;"	m	language:Make
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m	language:Make
+DISTFILES	auto/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m	language:Make
+DISTFILES	m4/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m	language:Make
+DISTFILES	po/Makefile	/^DISTFILES = $(DISTFILES.common) Makevars POTFILES.in \\$/;"	m	language:Make
+DISTFILES.common	po/Makefile	/^DISTFILES.common = Makefile.in.in remove-potcdate.sin \\$/;"	m	language:Make
+DISTFILES.common.extra1	po/Makefile	/^DISTFILES.common.extra1 = quot.sed boldquot.sed en@quot.header en@boldquot.header insert-header.sin Rules-quot$/;"	m	language:Make
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz$/;"	m	language:Make
+DIST_COMMON	Makefile	/^DIST_COMMON = README $(am__configure_deps) $(include_HEADERS) \\$/;"	m	language:Make
+DIST_COMMON	auto/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in \\$/;"	m	language:Make
+DIST_COMMON	m4/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m	language:Make
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(libpopt_la_SOURCES) $(tdict_SOURCES) $(test1_SOURCES) \\$/;"	m	language:Make
+DIST_SOURCES	auto/Makefile	/^DIST_SOURCES =$/;"	m	language:Make
+DIST_SOURCES	m4/Makefile	/^DIST_SOURCES =$/;"	m	language:Make
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m	language:Make
+DOMAIN	po/Makefile	/^DOMAIN = $(PACKAGE)$/;"	m	language:Make
+DSYMUTIL	Makefile	/^DSYMUTIL = $/;"	m	language:Make
+DSYMUTIL	auto/Makefile	/^DSYMUTIL = $/;"	m	language:Make
+DSYMUTIL	m4/Makefile	/^DSYMUTIL = $/;"	m	language:Make
+DUMMYPOFILES	po/Makefile	/^DUMMYPOFILES =  cs.nop da.nop de.nop eo.nop es.nop fi.nop fr.nop ga.nop gl.nop hu.nop id.nop is.nop it.nop ja.nop ko.nop lv.nop nb.nop nl.nop pl.nop pt.nop ro.nop ru.nop sk.nop sl.nop sv.nop th.nop tr.nop uk.nop vi.nop wa.nop zh_TW.nop zh_CN.nop$/;"	m	language:Make
+DUMPBIN	Makefile	/^DUMPBIN = $/;"	m	language:Make
+DUMPBIN	auto/Makefile	/^DUMPBIN = $/;"	m	language:Make
+DUMPBIN	m4/Makefile	/^DUMPBIN = $/;"	m	language:Make
+D_	poptint.h	214;"	d	language:C++
+D_	poptint.h	217;"	d	language:C++
+ECHO_C	Makefile	/^ECHO_C = $/;"	m	language:Make
+ECHO_C	auto/Makefile	/^ECHO_C = $/;"	m	language:Make
+ECHO_C	m4/Makefile	/^ECHO_C = $/;"	m	language:Make
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m	language:Make
+ECHO_N	auto/Makefile	/^ECHO_N = -n$/;"	m	language:Make
+ECHO_N	m4/Makefile	/^ECHO_N = -n$/;"	m	language:Make
+ECHO_T	Makefile	/^ECHO_T = $/;"	m	language:Make
+ECHO_T	auto/Makefile	/^ECHO_T = $/;"	m	language:Make
+ECHO_T	m4/Makefile	/^ECHO_T = $/;"	m	language:Make
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m	language:Make
+EGREP	auto/Makefile	/^EGREP = \/bin\/grep -E$/;"	m	language:Make
+EGREP	m4/Makefile	/^EGREP = \/bin\/grep -E$/;"	m	language:Make
+ENABLE_NLS	config.h	6;"	d	language:C++
+ETAGS	Makefile	/^ETAGS = etags$/;"	m	language:Make
+EXEEXT	Makefile	/^EXEEXT = $/;"	m	language:Make
+EXEEXT	auto/Makefile	/^EXEEXT = $/;"	m	language:Make
+EXEEXT	m4/Makefile	/^EXEEXT = $/;"	m	language:Make
+EXTRA_DIST	Makefile	/^EXTRA_DIST = config.rpath lookup3.c autogen.sh CHANGES $(man_MANS) \\$/;"	m	language:Make
+EXTRA_DIST	m4/Makefile	/^EXTRA_DIST = gettext.m4 iconv.m4 lib-ld.m4 lib-link.m4 lib-prefix.m4 nls.m4 po.m4 progtest.m4 gettext.m4 iconv.m4 lib-ld.m4 lib-link.m4 lib-prefix.m4 nls.m4 po.m4 progtest.m4 gettext.m4 iconv.m4 lib-ld.m4 lib-link.m4 lib-prefix.m4 nls.m4 po.m4 progtest.m4 codeset.m4 glibc2.m4 glibc21.m4 intdiv0.m4 intl.m4 intldir.m4 intlmacosx.m4 intmax.m4 inttypes_h.m4 inttypes-pri.m4 lcmessage.m4 lock.m4 longlong.m4 printf-posix.m4 size_max.m4 stdint_h.m4 uintmax_t.m4 visibility.m4 wchar_t.m4 wint_t.m4 xsize.m4$/;"	m	language:Make
+EXTRA_LOCALE_CATEGORIES	po/Makefile	/^EXTRA_LOCALE_CATEGORIES =$/;"	m	language:Make
+FGREP	Makefile	/^FGREP = \/bin\/grep -F$/;"	m	language:Make
+FGREP	auto/Makefile	/^FGREP = \/bin\/grep -F$/;"	m	language:Make
+FGREP	m4/Makefile	/^FGREP = \/bin\/grep -F$/;"	m	language:Make
+F_ISSET	poptint.h	89;"	d	language:C++
+GETTEXT_MACRO_VERSION	Makefile	/^GETTEXT_MACRO_VERSION = 0.17$/;"	m	language:Make
+GETTEXT_MACRO_VERSION	auto/Makefile	/^GETTEXT_MACRO_VERSION = 0.17$/;"	m	language:Make
+GETTEXT_MACRO_VERSION	m4/Makefile	/^GETTEXT_MACRO_VERSION = 0.17$/;"	m	language:Make
+GETTEXT_MACRO_VERSION	po/Makefile	/^GETTEXT_MACRO_VERSION = 0.17$/;"	m	language:Make
+GMOFILES	po/Makefile	/^GMOFILES =  cs.gmo da.gmo de.gmo eo.gmo es.gmo fi.gmo fr.gmo ga.gmo gl.gmo hu.gmo id.gmo is.gmo it.gmo ja.gmo ko.gmo lv.gmo nb.gmo nl.gmo pl.gmo pt.gmo ro.gmo ru.gmo sk.gmo sl.gmo sv.gmo th.gmo tr.gmo uk.gmo vi.gmo wa.gmo zh_TW.gmo zh_CN.gmo$/;"	m	language:Make
+GMSGFMT	Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m	language:Make
+GMSGFMT	auto/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m	language:Make
+GMSGFMT	m4/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m	language:Make
+GMSGFMT	po/Makefile	/^GMSGFMT = $(GMSGFMT_$(USE_MSGCTXT))$/;"	m	language:Make
+GMSGFMT_	po/Makefile	/^GMSGFMT_ = \/usr\/bin\/msgfmt$/;"	m	language:Make
+GMSGFMT_015	Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m	language:Make
+GMSGFMT_015	auto/Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m	language:Make
+GMSGFMT_015	m4/Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m	language:Make
+GMSGFMT_no	po/Makefile	/^GMSGFMT_no = \/usr\/bin\/msgfmt$/;"	m	language:Make
+GMSGFMT_yes	po/Makefile	/^GMSGFMT_yes = \/usr\/bin\/msgfmt$/;"	m	language:Make
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m	language:Make
+GREP	auto/Makefile	/^GREP = \/bin\/grep$/;"	m	language:Make
+GREP	m4/Makefile	/^GREP = \/bin\/grep$/;"	m	language:Make
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m	language:Make
+HASHLEN	lookup3.c	800;"	d	language:C	file:
+HASHSTATE	lookup3.c	799;"	d	language:C	file:
+HASH_BIG_ENDIAN	lookup3.c	53;"	d	language:C	file:
+HASH_LITTLE_ENDIAN	lookup3.c	52;"	d	language:C	file:
+HAVE_DCGETTEXT	config.h	18;"	d	language:C++
+HAVE_DLFCN_H	config.h	21;"	d	language:C++
+HAVE_FLOAT_H	config.h	24;"	d	language:C++
+HAVE_FNMATCH_H	config.h	27;"	d	language:C++
+HAVE_GETEUID	config.h	30;"	d	language:C++
+HAVE_GETTEXT	config.h	33;"	d	language:C++
+HAVE_GETUID	config.h	36;"	d	language:C++
+HAVE_GLOB_H	config.h	39;"	d	language:C++
+HAVE_ICONV	config.h	42;"	d	language:C++
+HAVE_INTTYPES_H	config.h	45;"	d	language:C++
+HAVE_LANGINFO_H	config.h	48;"	d	language:C++
+HAVE_LIBINTL_H	config.h	51;"	d	language:C++
+HAVE_MCHECK_H	config.h	54;"	d	language:C++
+HAVE_MEMORY_H	config.h	57;"	d	language:C++
+HAVE_MTRACE	config.h	60;"	d	language:C++
+HAVE_SETREGID	config.h	63;"	d	language:C++
+HAVE_SRANDOM	config.h	66;"	d	language:C++
+HAVE_STDINT_H	config.h	69;"	d	language:C++
+HAVE_STDLIB_H	config.h	72;"	d	language:C++
+HAVE_STPCPY	config.h	75;"	d	language:C++
+HAVE_STRERROR	config.h	78;"	d	language:C++
+HAVE_STRINGS_H	config.h	81;"	d	language:C++
+HAVE_STRING_H	config.h	84;"	d	language:C++
+HAVE_SYS_STAT_H	config.h	87;"	d	language:C++
+HAVE_SYS_TYPES_H	config.h	90;"	d	language:C++
+HAVE_UNISTD_H	config.h	93;"	d	language:C++
+HAVE_VASPRINTF	config.h	96;"	d	language:C++
+HEADERS	Makefile	/^HEADERS = $(include_HEADERS) $(noinst_HEADERS)$/;"	m	language:Make
+H_POPT	popt.h	10;"	d	language:C++
+H_POPTINT	poptint.h	10;"	d	language:C++
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m	language:Make
+INSTALL	auto/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m	language:Make
+INSTALL	m4/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m	language:Make
+INSTALL	po/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m	language:Make
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m	language:Make
+INSTALL_DATA	auto/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m	language:Make
+INSTALL_DATA	m4/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m	language:Make
+INSTALL_DATA	po/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m	language:Make
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m	language:Make
+INSTALL_HEADER	auto/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m	language:Make
+INSTALL_HEADER	m4/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m	language:Make
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m	language:Make
+INSTALL_PROGRAM	auto/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m	language:Make
+INSTALL_PROGRAM	m4/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m	language:Make
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m	language:Make
+INSTALL_SCRIPT	auto/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m	language:Make
+INSTALL_SCRIPT	m4/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m	language:Make
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m	language:Make
+INSTALL_STRIP_PROGRAM	auto/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m	language:Make
+INSTALL_STRIP_PROGRAM	m4/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m	language:Make
+INTLLIBS	Makefile	/^INTLLIBS = $/;"	m	language:Make
+INTLLIBS	auto/Makefile	/^INTLLIBS = $/;"	m	language:Make
+INTLLIBS	m4/Makefile	/^INTLLIBS = $/;"	m	language:Make
+INTL_MACOSX_LIBS	Makefile	/^INTL_MACOSX_LIBS = $/;"	m	language:Make
+INTL_MACOSX_LIBS	auto/Makefile	/^INTL_MACOSX_LIBS = $/;"	m	language:Make
+INTL_MACOSX_LIBS	m4/Makefile	/^INTL_MACOSX_LIBS = $/;"	m	language:Make
+LD	Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m	language:Make
+LD	auto/Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m	language:Make
+LD	m4/Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m	language:Make
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m	language:Make
+LDFLAGS	auto/Makefile	/^LDFLAGS = $/;"	m	language:Make
+LDFLAGS	m4/Makefile	/^LDFLAGS = $/;"	m	language:Make
+LF_ISSET	poptint.h	90;"	d	language:C++
+LIBICONV	Makefile	/^LIBICONV = $/;"	m	language:Make
+LIBICONV	auto/Makefile	/^LIBICONV = $/;"	m	language:Make
+LIBICONV	m4/Makefile	/^LIBICONV = $/;"	m	language:Make
+LIBINTL	Makefile	/^LIBINTL = $/;"	m	language:Make
+LIBINTL	auto/Makefile	/^LIBINTL = $/;"	m	language:Make
+LIBINTL	m4/Makefile	/^LIBINTL = $/;"	m	language:Make
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m	language:Make
+LIBOBJS	auto/Makefile	/^LIBOBJS = $/;"	m	language:Make
+LIBOBJS	m4/Makefile	/^LIBOBJS = $/;"	m	language:Make
+LIBS	Makefile	/^LIBS = $/;"	m	language:Make
+LIBS	auto/Makefile	/^LIBS = $/;"	m	language:Make
+LIBS	m4/Makefile	/^LIBS = $/;"	m	language:Make
+LIBTOOL	Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m	language:Make
+LIBTOOL	auto/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m	language:Make
+LIBTOOL	m4/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m	language:Make
+LINK	Makefile	/^LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m	language:Make
+LINT	Makefile	/^LINT = splint$/;"	m	language:Make
+LIPO	Makefile	/^LIPO = $/;"	m	language:Make
+LIPO	auto/Makefile	/^LIPO = $/;"	m	language:Make
+LIPO	m4/Makefile	/^LIPO = $/;"	m	language:Make
+LLONG_MAX	popt.c	1220;"	d	language:C	file:
+LLONG_MIN	popt.c	1221;"	d	language:C	file:
+LN_S	Makefile	/^LN_S = ln -s$/;"	m	language:Make
+LN_S	auto/Makefile	/^LN_S = ln -s$/;"	m	language:Make
+LN_S	m4/Makefile	/^LN_S = ln -s$/;"	m	language:Make
+LTCOMPILE	Makefile	/^LTCOMPILE = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m	language:Make
+LTLIBICONV	Makefile	/^LTLIBICONV = $/;"	m	language:Make
+LTLIBICONV	auto/Makefile	/^LTLIBICONV = $/;"	m	language:Make
+LTLIBICONV	m4/Makefile	/^LTLIBICONV = $/;"	m	language:Make
+LTLIBINTL	Makefile	/^LTLIBINTL = $/;"	m	language:Make
+LTLIBINTL	auto/Makefile	/^LTLIBINTL = $/;"	m	language:Make
+LTLIBINTL	m4/Makefile	/^LTLIBINTL = $/;"	m	language:Make
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m	language:Make
+LTLIBOBJS	auto/Makefile	/^LTLIBOBJS = $/;"	m	language:Make
+LTLIBOBJS	m4/Makefile	/^LTLIBOBJS = $/;"	m	language:Make
+LTLIBRARIES	Makefile	/^LTLIBRARIES = $(usrlib_LTLIBRARIES)$/;"	m	language:Make
+LT_AGE	Makefile	/^LT_AGE = 8$/;"	m	language:Make
+LT_AGE	auto/Makefile	/^LT_AGE = 8$/;"	m	language:Make
+LT_AGE	m4/Makefile	/^LT_AGE = 8$/;"	m	language:Make
+LT_CURRENT	Makefile	/^LT_CURRENT = 0$/;"	m	language:Make
+LT_CURRENT	auto/Makefile	/^LT_CURRENT = 0$/;"	m	language:Make
+LT_CURRENT	m4/Makefile	/^LT_CURRENT = 0$/;"	m	language:Make
+LT_OBJDIR	config.h	103;"	d	language:C++
+LT_REVISION	Makefile	/^LT_REVISION = 0$/;"	m	language:Make
+LT_REVISION	auto/Makefile	/^LT_REVISION = 0$/;"	m	language:Make
+LT_REVISION	m4/Makefile	/^LT_REVISION = 0$/;"	m	language:Make
+MAINT	Makefile	/^MAINT = #$/;"	m	language:Make
+MAINT	auto/Makefile	/^MAINT = #$/;"	m	language:Make
+MAINT	m4/Makefile	/^MAINT = #$/;"	m	language:Make
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run makeinfo$/;"	m	language:Make
+MAKEINFO	auto/Makefile	/^MAKEINFO = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run makeinfo$/;"	m	language:Make
+MAKEINFO	m4/Makefile	/^MAKEINFO = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/missing --run makeinfo$/;"	m	language:Make
+MANS	Makefile	/^MANS = $(man_MANS)$/;"	m	language:Make
+MAXLEN	lookup3.c	802;"	d	language:C	file:
+MAXPAIR	lookup3.c	801;"	d	language:C	file:
+MCCABE	Makefile	/^MCCABE = pmccabe$/;"	m	language:Make
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m	language:Make
+MKDIR_P	auto/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m	language:Make
+MKDIR_P	m4/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m	language:Make
+MKDIR_P	po/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m	language:Make
+MSGCONV	po/Makefile	/^MSGCONV = msgconv$/;"	m	language:Make
+MSGFILTER	po/Makefile	/^MSGFILTER = msgfilter$/;"	m	language:Make
+MSGFMT	Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m	language:Make
+MSGFMT	auto/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m	language:Make
+MSGFMT	m4/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m	language:Make
+MSGFMT	po/Makefile	/^MSGFMT = $(MSGFMT_$(USE_MSGCTXT))$/;"	m	language:Make
+MSGFMT_	po/Makefile	/^MSGFMT_ = \/usr\/bin\/msgfmt$/;"	m	language:Make
+MSGFMT_015	Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m	language:Make
+MSGFMT_015	auto/Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m	language:Make
+MSGFMT_015	m4/Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m	language:Make
+MSGFMT_no	po/Makefile	/^MSGFMT_no = \/usr\/bin\/msgfmt$/;"	m	language:Make
+MSGFMT_yes	po/Makefile	/^MSGFMT_yes = \/usr\/bin\/msgfmt$/;"	m	language:Make
+MSGID_BUGS_ADDRESS	po/Makefile	/^MSGID_BUGS_ADDRESS = <popt-devel@rpm5.org>$/;"	m	language:Make
+MSGINIT	po/Makefile	/^MSGINIT = msginit$/;"	m	language:Make
+MSGMERGE	Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m	language:Make
+MSGMERGE	auto/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m	language:Make
+MSGMERGE	m4/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m	language:Make
+MSGMERGE	po/Makefile	/^MSGMERGE = msgmerge$/;"	m	language:Make
+MSGMERGE_UPDATE	po/Makefile	/^MSGMERGE_UPDATE = \/usr\/bin\/msgmerge --update$/;"	m	language:Make
+MYDEBUG	popt.c	9;"	d	language:C	file:
+NM	Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m	language:Make
+NM	auto/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m	language:Make
+NM	m4/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m	language:Make
+NMEDIT	Makefile	/^NMEDIT = $/;"	m	language:Make
+NMEDIT	auto/Makefile	/^NMEDIT = $/;"	m	language:Make
+NMEDIT	m4/Makefile	/^NMEDIT = $/;"	m	language:Make
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m	language:Make
+NORMAL_INSTALL	auto/Makefile	/^NORMAL_INSTALL = :$/;"	m	language:Make
+NORMAL_INSTALL	m4/Makefile	/^NORMAL_INSTALL = :$/;"	m	language:Make
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m	language:Make
+NORMAL_UNINSTALL	auto/Makefile	/^NORMAL_UNINSTALL = :$/;"	m	language:Make
+NORMAL_UNINSTALL	m4/Makefile	/^NORMAL_UNINSTALL = :$/;"	m	language:Make
+NROFF	Makefile	/^NROFF = nroff$/;"	m	language:Make
+N_	poptint.h	221;"	d	language:C++
+OBJDUMP	Makefile	/^OBJDUMP = objdump$/;"	m	language:Make
+OBJDUMP	auto/Makefile	/^OBJDUMP = objdump$/;"	m	language:Make
+OBJDUMP	m4/Makefile	/^OBJDUMP = objdump$/;"	m	language:Make
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m	language:Make
+OBJEXT	auto/Makefile	/^OBJEXT = o$/;"	m	language:Make
+OBJEXT	m4/Makefile	/^OBJEXT = o$/;"	m	language:Make
+OTOOL	Makefile	/^OTOOL = $/;"	m	language:Make
+OTOOL	auto/Makefile	/^OTOOL = $/;"	m	language:Make
+OTOOL	m4/Makefile	/^OTOOL = $/;"	m	language:Make
+OTOOL64	Makefile	/^OTOOL64 = $/;"	m	language:Make
+OTOOL64	auto/Makefile	/^OTOOL64 = $/;"	m	language:Make
+OTOOL64	m4/Makefile	/^OTOOL64 = $/;"	m	language:Make
+PACKAGE	Makefile	/^PACKAGE = popt$/;"	m	language:Make
+PACKAGE	auto/Makefile	/^PACKAGE = popt$/;"	m	language:Make
+PACKAGE	config.h	106;"	d	language:C++
+PACKAGE	m4/Makefile	/^PACKAGE = popt$/;"	m	language:Make
+PACKAGE	po/Makefile	/^PACKAGE = popt$/;"	m	language:Make
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = popt-devel@rpm5.org$/;"	m	language:Make
+PACKAGE_BUGREPORT	auto/Makefile	/^PACKAGE_BUGREPORT = popt-devel@rpm5.org$/;"	m	language:Make
+PACKAGE_BUGREPORT	config.h	109;"	d	language:C++
+PACKAGE_BUGREPORT	m4/Makefile	/^PACKAGE_BUGREPORT = popt-devel@rpm5.org$/;"	m	language:Make
+PACKAGE_BUGREPORT	po/Makefile	/^PACKAGE_BUGREPORT = popt-devel@rpm5.org$/;"	m	language:Make
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = popt$/;"	m	language:Make
+PACKAGE_NAME	auto/Makefile	/^PACKAGE_NAME = popt$/;"	m	language:Make
+PACKAGE_NAME	config.h	112;"	d	language:C++
+PACKAGE_NAME	m4/Makefile	/^PACKAGE_NAME = popt$/;"	m	language:Make
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = popt 1.16$/;"	m	language:Make
+PACKAGE_STRING	auto/Makefile	/^PACKAGE_STRING = popt 1.16$/;"	m	language:Make
+PACKAGE_STRING	config.h	115;"	d	language:C++
+PACKAGE_STRING	m4/Makefile	/^PACKAGE_STRING = popt 1.16$/;"	m	language:Make
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = popt$/;"	m	language:Make
+PACKAGE_TARNAME	auto/Makefile	/^PACKAGE_TARNAME = popt$/;"	m	language:Make
+PACKAGE_TARNAME	config.h	118;"	d	language:C++
+PACKAGE_TARNAME	m4/Makefile	/^PACKAGE_TARNAME = popt$/;"	m	language:Make
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 1.16$/;"	m	language:Make
+PACKAGE_VERSION	auto/Makefile	/^PACKAGE_VERSION = 1.16$/;"	m	language:Make
+PACKAGE_VERSION	config.h	121;"	d	language:C++
+PACKAGE_VERSION	m4/Makefile	/^PACKAGE_VERSION = 1.16$/;"	m	language:Make
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m	language:Make
+PATH_SEPARATOR	auto/Makefile	/^PATH_SEPARATOR = :$/;"	m	language:Make
+PATH_SEPARATOR	m4/Makefile	/^PATH_SEPARATOR = :$/;"	m	language:Make
+PBM_ALLOC	poptint.h	41;"	d	language:C++
+PBM_CLR	poptint.h	44;"	d	language:C++
+PBM_FREE	poptint.h	42;"	d	language:C++
+PBM_ISSET	poptint.h	45;"	d	language:C++
+PBM_SET	poptint.h	43;"	d	language:C++
+POFILES	po/Makefile	/^POFILES =  cs.po da.po de.po eo.po es.po fi.po fr.po ga.po gl.po hu.po id.po is.po it.po ja.po ko.po lv.po nb.po nl.po pl.po pt.po ro.po ru.po sk.po sl.po sv.po th.po tr.po uk.po vi.po wa.po zh_TW.po zh_CN.po$/;"	m	language:Make
+POPT_	poptint.h	215;"	d	language:C++
+POPT_	poptint.h	218;"	d	language:C++
+POPT_ABS	popt.c	1275;"	d	language:C	file:
+POPT_ARGFLAG_AND	popt.h	59;"	d	language:C++
+POPT_ARGFLAG_DOC_HIDDEN	popt.h	53;"	d	language:C++
+POPT_ARGFLAG_LOGICALOPS	popt.h	63;"	d	language:C++
+POPT_ARGFLAG_NAND	popt.h	60;"	d	language:C++
+POPT_ARGFLAG_NOR	popt.h	58;"	d	language:C++
+POPT_ARGFLAG_NOT	popt.h	62;"	d	language:C++
+POPT_ARGFLAG_ONEDASH	popt.h	52;"	d	language:C++
+POPT_ARGFLAG_OPTIONAL	popt.h	55;"	d	language:C++
+POPT_ARGFLAG_OR	popt.h	57;"	d	language:C++
+POPT_ARGFLAG_RANDOM	popt.h	72;"	d	language:C++
+POPT_ARGFLAG_SHOW_DEFAULT	popt.h	71;"	d	language:C++
+POPT_ARGFLAG_STRIP	popt.h	54;"	d	language:C++
+POPT_ARGFLAG_TOGGLE	popt.h	73;"	d	language:C++
+POPT_ARGFLAG_XOR	popt.h	61;"	d	language:C++
+POPT_ARGV_ARRAY_GROW_DELTA	poptparse.c	11;"	d	language:C	file:
+POPT_ARG_ARGV	popt.h	39;"	d	language:C++
+POPT_ARG_BITSET	popt.h	41;"	d	language:C++
+POPT_ARG_CALLBACK	popt.h	25;"	d	language:C++
+POPT_ARG_DOUBLE	popt.h	35;"	d	language:C++
+POPT_ARG_FLOAT	popt.h	34;"	d	language:C++
+POPT_ARG_INCLUDE_TABLE	popt.h	24;"	d	language:C++
+POPT_ARG_INT	popt.h	22;"	d	language:C++
+POPT_ARG_INTL_DOMAIN	popt.h	29;"	d	language:C++
+POPT_ARG_LONG	popt.h	23;"	d	language:C++
+POPT_ARG_LONGLONG	popt.h	36;"	d	language:C++
+POPT_ARG_MAINCALL	popt.h	38;"	d	language:C++
+POPT_ARG_MASK	popt.h	43;"	d	language:C++
+POPT_ARG_NONE	popt.h	20;"	d	language:C++
+POPT_ARG_SHORT	popt.h	40;"	d	language:C++
+POPT_ARG_STRING	popt.h	21;"	d	language:C++
+POPT_ARG_VAL	popt.h	33;"	d	language:C++
+POPT_AUTOALIAS	popt.h	175;"	d	language:C++
+POPT_AUTOHELP	popt.h	191;"	d	language:C++
+POPT_BADOPTION_NOALIAS	popt.h	110;"	d	language:C++
+POPT_BIT_CLR	popt.h	68;"	d	language:C++
+POPT_BIT_SET	popt.h	66;"	d	language:C++
+POPT_CALLBACK_REASON_OPTION	popt.h	/^    POPT_CALLBACK_REASON_OPTION = 2$/;"	e	language:C++	enum:poptCallbackReason
+POPT_CALLBACK_REASON_POST	popt.h	/^    POPT_CALLBACK_REASON_POST	= 1,$/;"	e	language:C++	enum:poptCallbackReason
+POPT_CALLBACK_REASON_PRE	popt.h	/^    POPT_CALLBACK_REASON_PRE	= 0, $/;"	e	language:C++	enum:poptCallbackReason
+POPT_CBFLAG_CONTINUE	popt.h	86;"	d	language:C++
+POPT_CBFLAG_INC_DATA	popt.h	83;"	d	language:C++
+POPT_CBFLAG_POST	popt.h	82;"	d	language:C++
+POPT_CBFLAG_PRE	popt.h	81;"	d	language:C++
+POPT_CBFLAG_SKIPOPTION	popt.h	85;"	d	language:C++
+POPT_CONTEXT_ARG_OPTS	popt.h	120;"	d	language:C++
+POPT_CONTEXT_KEEP_FIRST	popt.h	118;"	d	language:C++
+POPT_CONTEXT_NO_EXEC	popt.h	117;"	d	language:C++
+POPT_CONTEXT_POSIXMEHARDER	popt.h	119;"	d	language:C++
+POPT_ERROR_BADCONFIG	popt.h	103;"	d	language:C++
+POPT_ERROR_BADNUMBER	popt.h	98;"	d	language:C++
+POPT_ERROR_BADOPERATION	popt.h	100;"	d	language:C++
+POPT_ERROR_BADOPT	popt.h	94;"	d	language:C++
+POPT_ERROR_BADQUOTE	popt.h	96;"	d	language:C++
+POPT_ERROR_ERRNO	popt.h	97;"	d	language:C++
+POPT_ERROR_MALLOC	popt.h	102;"	d	language:C++
+POPT_ERROR_NOARG	popt.h	93;"	d	language:C++
+POPT_ERROR_NULLARG	popt.h	101;"	d	language:C++
+POPT_ERROR_OPTSTOODEEP	popt.h	95;"	d	language:C++
+POPT_ERROR_OVERFLOW	popt.h	99;"	d	language:C++
+POPT_GROUP_MASK	popt.h	44;"	d	language:C++
+POPT_OPTION_DEPTH	popt.h	14;"	d	language:C++
+POPT_PKGCONFIG_LIBS	Makefile	/^POPT_PKGCONFIG_LIBS = -L${libdir} -lpopt$/;"	m	language:Make
+POPT_PKGCONFIG_LIBS	auto/Makefile	/^POPT_PKGCONFIG_LIBS = -L${libdir} -lpopt$/;"	m	language:Make
+POPT_PKGCONFIG_LIBS	m4/Makefile	/^POPT_PKGCONFIG_LIBS = -L${libdir} -lpopt$/;"	m	language:Make
+POPT_READFILE_TRIMNEWLINES	popt.h	411;"	d	language:C++
+POPT_SOURCE_PATH	Makefile	/^POPT_SOURCE_PATH = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+POPT_SOURCE_PATH	auto/Makefile	/^POPT_SOURCE_PATH = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+POPT_SOURCE_PATH	config.h	124;"	d	language:C++
+POPT_SOURCE_PATH	m4/Makefile	/^POPT_SOURCE_PATH = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+POPT_SYSCONFDIR	config.h	127;"	d	language:C++
+POPT_TABLEEND	popt.h	194;"	d	language:C++
+POPT_USE_TIOCGWINSZ	popthelp.c	13;"	d	language:C	file:
+POPT_WCHAR_HACK	popthelp.c	18;"	d	language:C	file:
+POPT_dgettext	poptint.c	/^POPT_dgettext(const char * dom, const char * str)$/;"	f	language:C	signature:(const char * dom, const char * str)
+POPT_dgettext	poptint.h	153;"	d	language:C++
+POPT_fprintf	poptint.c	/^POPT_fprintf (FILE * stream, const char * format, ...)$/;"	f	language:C	signature:(FILE * stream, const char * format, ...)
+POPT_next_char	poptint.c	/^POPT_next_char (const char *str)$/;"	f	language:C	signature:(const char *str)
+POPT_prev_char	poptint.c	/^POPT_prev_char (const char *str)$/;"	f	language:C	signature:(const char *str)
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m	language:Make
+POST_INSTALL	auto/Makefile	/^POST_INSTALL = :$/;"	m	language:Make
+POST_INSTALL	m4/Makefile	/^POST_INSTALL = :$/;"	m	language:Make
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m	language:Make
+POST_UNINSTALL	auto/Makefile	/^POST_UNINSTALL = :$/;"	m	language:Make
+POST_UNINSTALL	m4/Makefile	/^POST_UNINSTALL = :$/;"	m	language:Make
+POSUB	Makefile	/^POSUB = po$/;"	m	language:Make
+POSUB	auto/Makefile	/^POSUB = po$/;"	m	language:Make
+POSUB	m4/Makefile	/^POSUB = po$/;"	m	language:Make
+POTFILES	po/Makefile	/^POTFILES = \\$/;"	m	language:Make
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m	language:Make
+PRE_INSTALL	auto/Makefile	/^PRE_INSTALL = :$/;"	m	language:Make
+PRE_INSTALL	m4/Makefile	/^PRE_INSTALL = :$/;"	m	language:Make
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m	language:Make
+PRE_UNINSTALL	auto/Makefile	/^PRE_UNINSTALL = :$/;"	m	language:Make
+PRE_UNINSTALL	m4/Makefile	/^PRE_UNINSTALL = :$/;"	m	language:Make
+PROGRAMS	Makefile	/^PROGRAMS = $(noinst_PROGRAMS)$/;"	m	language:Make
+PROTOTYPES	config.h	130;"	d	language:C++
+PathnameOfKeyFile	test2.c	/^char *PathnameOfKeyFile		= NULL;$/;"	v	language:C
+PathnameOfOfferFile	test2.c	/^char *PathnameOfOfferFile	= NULL;$/;"	v	language:C
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m	language:Make
+RANLIB	auto/Makefile	/^RANLIB = ranlib$/;"	m	language:Make
+RANLIB	m4/Makefile	/^RANLIB = ranlib$/;"	m	language:Make
+RECURSIVE_CLEAN_TARGETS	Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m	language:Make
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive dvi-recursive \\$/;"	m	language:Make
+ROTL32	lookup3.c	57;"	d	language:C	file:
+SCRIPTS	Makefile	/^SCRIPTS = $(noinst_SCRIPTS)$/;"	m	language:Make
+SED	Makefile	/^SED = \/bin\/sed$/;"	m	language:Make
+SED	auto/Makefile	/^SED = \/bin\/sed$/;"	m	language:Make
+SED	m4/Makefile	/^SED = \/bin\/sed$/;"	m	language:Make
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m	language:Make
+SET_MAKE	auto/Makefile	/^SET_MAKE = $/;"	m	language:Make
+SET_MAKE	m4/Makefile	/^SET_MAKE = $/;"	m	language:Make
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m	language:Make
+SHELL	auto/Makefile	/^SHELL = \/bin\/bash$/;"	m	language:Make
+SHELL	m4/Makefile	/^SHELL = \/bin\/bash$/;"	m	language:Make
+SHELL	po/Makefile	/^SHELL = \/bin\/sh$/;"	m	language:Make
+SOURCES	Makefile	/^SOURCES = $(libpopt_la_SOURCES) $(tdict_SOURCES) $(test1_SOURCES) \\$/;"	m	language:Make
+SOURCES	auto/Makefile	/^SOURCES =$/;"	m	language:Make
+SOURCES	m4/Makefile	/^SOURCES =$/;"	m	language:Make
+STDC_HEADERS	config.h	133;"	d	language:C++
+STRIP	Makefile	/^STRIP = strip$/;"	m	language:Make
+STRIP	auto/Makefile	/^STRIP = strip$/;"	m	language:Make
+STRIP	m4/Makefile	/^STRIP = strip$/;"	m	language:Make
+SUBDIRS	Makefile	/^SUBDIRS = po . auto$/;"	m	language:Make
+TARGET	Makefile	/^TARGET = depend allprogs$/;"	m	language:Make
+TARGET	auto/Makefile	/^TARGET = depend allprogs$/;"	m	language:Make
+TARGET	m4/Makefile	/^TARGET = depend allprogs$/;"	m	language:Make
+TDIRS	auto/Makefile	/^TDIRS = descriptors_storage header_compile_errors test_results tests$/;"	m	language:Make
+TESTS	Makefile	/^TESTS = $(top_srcdir)\/testit.sh$/;"	m	language:Make
+TESTS_ENVIRONMENT	Makefile	/^TESTS_ENVIRONMENT = \\$/;"	m	language:Make
+U	Makefile	/^U = $/;"	m	language:Make
+U	auto/Makefile	/^U = $/;"	m	language:Make
+U	m4/Makefile	/^U = $/;"	m	language:Make
+UNUSED	poptconfig.c	/^		\/*@unused@*\/ UNUSED(int eerrno))$/;"	f	language:C	file:	signature:(int eerrno)
+UNUSED	system.h	101;"	d	language:C++
+UPDATEPOFILES	po/Makefile	/^UPDATEPOFILES =  cs.po-update da.po-update de.po-update eo.po-update es.po-update fi.po-update fr.po-update ga.po-update gl.po-update hu.po-update id.po-update is.po-update it.po-update ja.po-update ko.po-update lv.po-update nb.po-update nl.po-update pl.po-update pt.po-update ro.po-update ru.po-update sk.po-update sl.po-update sv.po-update th.po-update tr.po-update uk.po-update vi.po-update wa.po-update zh_TW.po-update zh_CN.po-update$/;"	m	language:Make
+USE_NLS	Makefile	/^USE_NLS = yes$/;"	m	language:Make
+USE_NLS	auto/Makefile	/^USE_NLS = yes$/;"	m	language:Make
+USE_NLS	m4/Makefile	/^USE_NLS = yes$/;"	m	language:Make
+VERSION	Makefile	/^VERSION = 1.16$/;"	m	language:Make
+VERSION	auto/Makefile	/^VERSION = 1.16$/;"	m	language:Make
+VERSION	config.h	136;"	d	language:C++
+VERSION	m4/Makefile	/^VERSION = 1.16$/;"	m	language:Make
+VERSION	po/Makefile	/^VERSION = 1.16$/;"	m	language:Make
+XGETTEXT	Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m	language:Make
+XGETTEXT	auto/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m	language:Make
+XGETTEXT	m4/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m	language:Make
+XGETTEXT	po/Makefile	/^XGETTEXT = $(XGETTEXT_$(USE_MSGCTXT))$/;"	m	language:Make
+XGETTEXT_	po/Makefile	/^XGETTEXT_ = \/usr\/bin\/xgettext$/;"	m	language:Make
+XGETTEXT_015	Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m	language:Make
+XGETTEXT_015	auto/Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m	language:Make
+XGETTEXT_015	m4/Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m	language:Make
+XGETTEXT_EXTRA_OPTIONS	Makefile	/^XGETTEXT_EXTRA_OPTIONS = $/;"	m	language:Make
+XGETTEXT_EXTRA_OPTIONS	auto/Makefile	/^XGETTEXT_EXTRA_OPTIONS = $/;"	m	language:Make
+XGETTEXT_EXTRA_OPTIONS	m4/Makefile	/^XGETTEXT_EXTRA_OPTIONS = $/;"	m	language:Make
+XGETTEXT_OPTIONS	po/Makefile	/^XGETTEXT_OPTIONS = --keyword=_ --keyword=N_ --keyword=POPT_$/;"	m	language:Make
+XGETTEXT_no	po/Makefile	/^XGETTEXT_no = \/usr\/bin\/xgettext$/;"	m	language:Make
+XGETTEXT_yes	po/Makefile	/^XGETTEXT_yes = \/usr\/bin\/xgettext$/;"	m	language:Make
+_	poptint.h	208;"	d	language:C++
+_	poptint.h	210;"	d	language:C++
+_JLU3_FINAL	lookup3.c	142;"	d	language:C	file:
+_JLU3_INIT	lookup3.c	61;"	d	language:C	file:
+_JLU3_MIX	lookup3.c	107;"	d	language:C	file:
+_JLU3_jlu32b	lookup3.c	43;"	d	language:C	file:
+_JLU3_jlu32l	lookup3.c	41;"	d	language:C	file:
+_JLU3_jlu32lpair	lookup3.c	42;"	d	language:C	file:
+_JLU3_jlu32lpair	poptint.c	6;"	d	language:C	file:
+_JLU3_jlu32w	lookup3.c	40;"	d	language:C	file:
+_POPTHELP_MAXLINE	popthelp.c	100;"	d	language:C	file:
+_POPT_BITS_K	popt.h	691;"	d	language:C++
+_POPT_BITS_M	popt.h	690;"	d	language:C++
+_POPT_BITS_N	popt.h	689;"	d	language:C++
+__PBM_BITS	poptint.h	39;"	d	language:C++
+__PBM_IX	poptint.h	32;"	d	language:C++
+__PBM_MASK	poptint.h	33;"	d	language:C++
+__PBM_NBITS	poptint.h	31;"	d	language:C++
+__PROTOTYPES	config.h	145;"	d	language:C++
+__attribute__	system.h	99;"	d	language:C++
+__pbm_bits	poptint.h	/^typedef	unsigned int __pbm_bits;$/;"	t	language:C++
+_dbswap	lookup3.c	/^static const union _dbswap {$/;"	u	language:C	file:
+_debug	tdict.c	/^static int _debug = 0;$/;"	v	language:C	file:
+_free	poptint.h	/^_free(\/*@only@*\/ \/*@null@*\/ const void * p)$/;"	f	language:C++	signature:( const void * p)
+_isspaceptr	system.h	21;"	d	language:C++
+_poptArgMask	popt.c	/^unsigned int _poptArgMask = POPT_ARG_MASK;$/;"	v	language:C
+_poptBitsK	popt.c	/^unsigned int _poptBitsK = _POPT_BITS_K;$/;"	v	language:C
+_poptBitsM	popt.c	/^unsigned int _poptBitsM = _POPT_BITS_M;$/;"	v	language:C
+_poptBitsN	popt.c	/^unsigned int _poptBitsN = _POPT_BITS_N;$/;"	v	language:C
+_poptBitsNew	popt.c	/^static int _poptBitsNew(\/*@null@*\/ poptBits *bitsp)$/;"	f	language:C	file:	signature:( poptBits *bitsp)
+_poptGroupMask	popt.c	/^unsigned int _poptGroupMask = POPT_GROUP_MASK;$/;"	v	language:C
+_popt_debug	popt.c	/^int _popt_debug = 0;$/;"	v	language:C
+_verbose	tdict.c	/^static int _verbose = 1;$/;"	v	language:C	file:
+aArgv	test1.c	/^static const char ** aArgv = NULL;$/;"	v	language:C	file:
+aBits	test1.c	/^static void * aBits = NULL;$/;"	v	language:C	file:
+aDouble	test1.c	/^static double aDouble = 9.86960440108935861883;$/;"	v	language:C	file:
+aFlag	test1.c	/^static unsigned int aFlag = 0x8aceU;$/;"	v	language:C	file:
+aFloat	test1.c	/^static float aFloat = 3.1415926535;$/;"	v	language:C	file:
+aInt	test1.c	/^static int aInt = 271828;$/;"	v	language:C	file:
+aLong	test1.c	/^static long aLong = 738905609L;$/;"	v	language:C	file:
+aLongLong	test1.c	/^static long long aLongLong = 738905609LL;$/;"	v	language:C	file:
+aShort	test1.c	/^static short aShort = (short)4523;$/;"	v	language:C	file:
+aVal	test1.c	/^static int aVal = 141421;$/;"	v	language:C	file:
+abs_builddir	Makefile	/^abs_builddir = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+abs_builddir	auto/Makefile	/^abs_builddir = \/home\/ztf\/Downloads\/popt-1.16\/auto$/;"	m	language:Make
+abs_builddir	m4/Makefile	/^abs_builddir = \/home\/ztf\/Downloads\/popt-1.16\/m4$/;"	m	language:Make
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+abs_srcdir	auto/Makefile	/^abs_srcdir = \/home\/ztf\/Downloads\/popt-1.16\/auto$/;"	m	language:Make
+abs_srcdir	m4/Makefile	/^abs_srcdir = \/home\/ztf\/Downloads\/popt-1.16\/m4$/;"	m	language:Make
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+abs_top_builddir	auto/Makefile	/^abs_top_builddir = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+abs_top_builddir	m4/Makefile	/^abs_top_builddir = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+abs_top_srcdir	auto/Makefile	/^abs_top_srcdir = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+abs_top_srcdir	m4/Makefile	/^abs_top_srcdir = \/home\/ztf\/Downloads\/popt-1.16$/;"	m	language:Make
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m	language:Make
+ac_ct_CC	auto/Makefile	/^ac_ct_CC = gcc$/;"	m	language:Make
+ac_ct_CC	m4/Makefile	/^ac_ct_CC = gcc$/;"	m	language:Make
+ac_ct_DUMPBIN	Makefile	/^ac_ct_DUMPBIN = $/;"	m	language:Make
+ac_ct_DUMPBIN	auto/Makefile	/^ac_ct_DUMPBIN = $/;"	m	language:Make
+ac_ct_DUMPBIN	m4/Makefile	/^ac_ct_DUMPBIN = $/;"	m	language:Make
+acp	poptconfig.c	/^		\/*@out@*\/ int * acp, \/*@out@*\/ const char *** avp)$/;"	v	language:C	file:
+addr1	test2.c	/^char *addr1			= NULL;$/;"	v	language:C
+addr2	test2.c	/^char *addr2			= NULL;$/;"	v	language:C
+aliases	poptint.h	/^    poptItem aliases;$/;"	m	language:C++	struct:poptContext_s
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m	language:Make
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m	language:Make
+am__aclocal_m4_deps	auto/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m	language:Make
+am__aclocal_m4_deps	m4/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/gettext.m4 \\$/;"	m	language:Make
+am__append_1	Makefile	/^am__append_1 = -Wl,--version-script=$(top_srcdir)\/libpopt.vers$/;"	m	language:Make
+am__base_list	Makefile	/^am__base_list = \\$/;"	m	language:Make
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m	language:Make
+am__cd	auto/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m	language:Make
+am__cd	m4/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m	language:Make
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m	language:Make
+am__configure_deps	auto/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m	language:Make
+am__configure_deps	m4/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m	language:Make
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m	language:Make
+am__include	Makefile	/^am__include = include$/;"	m	language:Make
+am__include	auto/Makefile	/^am__include = include$/;"	m	language:Make
+am__include	m4/Makefile	/^am__include = include$/;"	m	language:Make
+am__install_max	Makefile	/^am__install_max = 40$/;"	m	language:Make
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(usrlibdir)" "$(DESTDIR)$(man3dir)" \\$/;"	m	language:Make
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m	language:Make
+am__leading_dot	auto/Makefile	/^am__leading_dot = .$/;"	m	language:Make
+am__leading_dot	m4/Makefile	/^am__leading_dot = .$/;"	m	language:Make
+am__mv	Makefile	/^am__mv = mv -f$/;"	m	language:Make
+am__nobase_list	Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m	language:Make
+am__nobase_strip	Makefile	/^am__nobase_strip = \\$/;"	m	language:Make
+am__nobase_strip_setup	Makefile	/^am__nobase_strip_setup = \\$/;"	m	language:Make
+am__quote	Makefile	/^am__quote = $/;"	m	language:Make
+am__quote	auto/Makefile	/^am__quote = $/;"	m	language:Make
+am__quote	m4/Makefile	/^am__quote = $/;"	m	language:Make
+am__relativize	Makefile	/^am__relativize = \\$/;"	m	language:Make
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m	language:Make
+am__strip_dir	Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m	language:Make
+am__tar	Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m	language:Make
+am__tar	auto/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m	language:Make
+am__tar	m4/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m	language:Make
+am__tty_colors	Makefile	/^am__tty_colors = \\$/;"	m	language:Make
+am__untar	Makefile	/^am__untar = ${AMTAR} xf -$/;"	m	language:Make
+am__untar	auto/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m	language:Make
+am__untar	m4/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m	language:Make
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m	language:Make
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m	language:Make
+am_libpopt_la_OBJECTS	Makefile	/^am_libpopt_la_OBJECTS = popt.lo poptparse.lo poptconfig.lo popthelp.lo \\$/;"	m	language:Make
+am_tdict_OBJECTS	Makefile	/^am_tdict_OBJECTS = tdict.$(OBJEXT)$/;"	m	language:Make
+am_test1_OBJECTS	Makefile	/^am_test1_OBJECTS = test1.$(OBJEXT)$/;"	m	language:Make
+am_test2_OBJECTS	Makefile	/^am_test2_OBJECTS = test2.$(OBJEXT)$/;"	m	language:Make
+appName	poptint.h	/^    const char * appName;$/;"	m	language:C++	struct:poptContext_s
+arg	popt.h	/^    void * arg;			\/*!< depends on argInfo *\/$/;"	m	language:C++	struct:poptOption
+arg	test1.c	/^		char * arg, void * data)$/;"	v	language:C	file:
+arg1	test1.c	/^static int arg1 = 0;$/;"	v	language:C	file:
+arg2	test1.c	/^static char * arg2 = "(none)";$/;"	v	language:C	file:
+arg3	test1.c	/^static int arg3 = 0;$/;"	v	language:C	file:
+argDescrip	popt.h	/^    const char * argDescrip;	\/*!< argument description for autohelp *\/$/;"	m	language:C++	struct:poptOption
+argInfo	popt.h	/^    unsigned int argInfo;$/;"	m	language:C++	struct:poptOption
+arg_strip	poptint.h	/^    pbm_set * arg_strip;$/;"	m	language:C++	struct:poptContext_s
+argb	poptint.h	/^    pbm_set * argb;$/;"	m	language:C++	struct:optionStackEntry
+argc	popt.h	/^    int argc;			\/*!< (alias) no. of args. *\/$/;"	m	language:C++	struct:poptItem_s
+argc	popt.h	/^    int argc;$/;"	m	language:C++	struct:poptAlias
+argc	poptint.h	/^    int argc;$/;"	m	language:C++	struct:optionStackEntry
+argv	popt.h	/^    const char ** argv;		\/*!< (alias) args, must be free()able. *\/$/;"	m	language:C++	struct:poptItem_s
+argv	popt.h	/^    const char ** argv;		\/*!< must be free()able *\/$/;"	m	language:C++	struct:poptAlias
+argv	poptint.h	/^    const char ** argv;$/;"	m	language:C++	union:poptArg_u
+argv	poptint.h	/^    poptArgv argv;$/;"	m	language:C++	struct:optionStackEntry
+as_func_failure	configure	/^as_func_failure () {$/;"	f	language:Sh
+as_func_ret_failure	configure	/^as_func_ret_failure () {$/;"	f	language:Sh
+as_func_ret_success	configure	/^as_func_ret_success () {$/;"	f	language:Sh
+as_func_success	configure	/^as_func_success () {$/;"	f	language:Sh
+attributes	test1.c	/^static const char *attributes[] = {$/;"	v	language:C	file:
+bDouble	test1.c	/^static double bDouble = 9.86960440108935861883;$/;"	v	language:C	file:
+bFlag	test1.c	/^static unsigned int bFlag = 0x8aceU;$/;"	v	language:C	file:
+bFloat	test1.c	/^static float bFloat = 3.1415926535;$/;"	v	language:C	file:
+bInt	test1.c	/^static int bInt = 271828;$/;"	v	language:C	file:
+bLong	test1.c	/^static long bLong = 738905609L;$/;"	v	language:C	file:
+bLongLong	test1.c	/^static long long bLongLong = 738905609LL;$/;"	v	language:C	file:
+bShort	test1.c	/^static short bShort = (short)4523;$/;"	v	language:C	file:
+bVal	test1.c	/^static int bVal = 141421;$/;"	v	language:C	file:
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m	language:Make
+bindir	auto/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m	language:Make
+bindir	m4/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m	language:Make
+bits	popt.h	/^    unsigned int bits[1];$/;"	m	language:C++	struct:poptBits_s
+bits	poptint.h	/^    __pbm_bits bits[1];$/;"	m	language:C++	struct:__anon1
+build	Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m	language:Make
+build	auto/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m	language:Make
+build	m4/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m	language:Make
+build_alias	Makefile	/^build_alias = $/;"	m	language:Make
+build_alias	auto/Makefile	/^build_alias = $/;"	m	language:Make
+build_alias	m4/Makefile	/^build_alias = $/;"	m	language:Make
+build_cpu	Makefile	/^build_cpu = x86_64$/;"	m	language:Make
+build_cpu	auto/Makefile	/^build_cpu = x86_64$/;"	m	language:Make
+build_cpu	m4/Makefile	/^build_cpu = x86_64$/;"	m	language:Make
+build_os	Makefile	/^build_os = linux-gnu$/;"	m	language:Make
+build_os	auto/Makefile	/^build_os = linux-gnu$/;"	m	language:Make
+build_os	m4/Makefile	/^build_os = linux-gnu$/;"	m	language:Make
+build_triplet	Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m	language:Make
+build_triplet	auto/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m	language:Make
+build_triplet	m4/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m	language:Make
+build_vendor	Makefile	/^build_vendor = unknown$/;"	m	language:Make
+build_vendor	auto/Makefile	/^build_vendor = unknown$/;"	m	language:Make
+build_vendor	m4/Makefile	/^build_vendor = unknown$/;"	m	language:Make
+builddir	Makefile	/^builddir = .$/;"	m	language:Make
+builddir	auto/Makefile	/^builddir = .$/;"	m	language:Make
+builddir	m4/Makefile	/^builddir = .$/;"	m	language:Make
+callbackArgs	test1.c	/^static struct poptOption callbackArgs[] = {$/;"	v	language:C	typeref:struct:poptOption	file:
+cb	poptint.h	/^    poptCallbackType cb;$/;"	m	language:C++	union:poptArg_u
+city	test2.c	/^char *city			= NULL;$/;"	v	language:C
+cleanOSE	popt.c	/^static void cleanOSE(\/*@special@*\/ struct optionStackEntry *os)$/;"	f	language:C	file:	signature:( struct optionStackEntry *os)
+columns_s	popthelp.c	/^typedef struct columns_s {$/;"	s	language:C	file:
+columns_t	popthelp.c	/^} * columns_t;$/;"	t	language:C	typeref:struct:columns_s	file:
+configAppMatch	poptconfig.c	/^static int configAppMatch(poptContext con, const char * s)$/;"	f	language:C	file:	signature:(poptContext con, const char * s)
+contentHost	test2.c	/^char *contentHost		= NULL;$/;"	v	language:C
+contentPath	test2.c	/^char *contentPath		= NULL;$/;"	v	language:C
+contentPort	test2.c	/^int   contentPort		= 80;$/;"	v	language:C
+contentProtocol	test2.c	/^char *contentProtocol		= NULL;$/;"	v	language:C
+country	test2.c	/^char *country			= NULL;$/;"	v	language:C
+cur	popthelp.c	/^    size_t cur;$/;"	m	language:C	struct:columns_s	file:
+currAlias	poptint.h	/^    poptItem currAlias;$/;"	m	language:C++	struct:optionStackEntry
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m	language:Make
+datadir	auto/Makefile	/^datadir = ${datarootdir}$/;"	m	language:Make
+datadir	m4/Makefile	/^datadir = ${datarootdir}$/;"	m	language:Make
+datadir	po/Makefile	/^datadir = ${datarootdir}$/;"	m	language:Make
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m	language:Make
+datarootdir	auto/Makefile	/^datarootdir = ${prefix}\/share$/;"	m	language:Make
+datarootdir	m4/Makefile	/^datarootdir = ${prefix}\/share$/;"	m	language:Make
+datarootdir	po/Makefile	/^datarootdir = ${prefix}\/share$/;"	m	language:Make
+dayphone	test2.c	/^char *dayphone			= NULL;$/;"	v	language:C
+dbPassword	test2.c	/^char *dbPassword		= NULL;$/;"	v	language:C
+dbUserName	test2.c	/^char *dbUserName		= NULL;$/;"	v	language:C
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m	language:Make
+descrip	popt.h	/^    const char * descrip;	\/*!< description for autohelp -- may be NULL *\/$/;"	m	language:C++	struct:poptOption
+dictbits	tdict.c	/^static poptBits dictbits = NULL;$/;"	v	language:C	file:
+dictfn	tdict.c	/^static const char * dictfn = "\/usr\/share\/dict\/words";$/;"	v	language:C	file:
+displayArgs	popthelp.c	/^static void displayArgs(poptContext con,$/;"	f	language:C	file:	signature:(poptContext con, UNUSED(enum poptCallbackReason foo), struct poptOption * key, UNUSED(const char * arg), UNUSED(void * data))
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m	language:Make
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m	language:Make
+distdir	po/Makefile	/^distdir = $(top_builddir)\/$(PACKAGE)-$(VERSION)\/$(subdir)$/;"	m	language:Make
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m	language:Make
+doExec	poptint.h	/^    poptItem doExec;$/;"	m	language:C++	struct:poptContext_s
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m	language:Make
+docdir	auto/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m	language:Make
+docdir	m4/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m	language:Make
+doublep	poptint.h	/^    double * doublep;$/;"	m	language:C++	union:poptArg_u
+driver1	lookup3.c	/^static void driver1(void)$/;"	f	language:C	file:	signature:(void)
+driver2	lookup3.c	/^static void driver2(void)$/;"	f	language:C	file:	signature:(void)
+driver3	lookup3.c	/^static void driver3(void)$/;"	f	language:C	file:	signature:(void)
+driver4	lookup3.c	/^static void driver4(void)$/;"	f	language:C	file:	signature:(void)
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m	language:Make
+dvidir	auto/Makefile	/^dvidir = ${docdir}$/;"	m	language:Make
+dvidir	m4/Makefile	/^dvidir = ${docdir}$/;"	m	language:Make
+e	tdict.c	/^} e;$/;"	v	language:C	typeref:struct:__anon2	file:
+email	test2.c	/^char *email			= NULL;$/;"	v	language:C
+endian	lookup3.c	/^} endian = { .ui = 0x11223344 };$/;"	v	language:C	typeref:union:_dbswap	file:
+execAbsolute	poptint.h	/^    int execAbsolute;$/;"	m	language:C++	struct:poptContext_s
+execCommand	popt.c	/^static int execCommand(poptContext con)$/;"	f	language:C	file:	signature:(poptContext con)
+execPath	poptint.h	/^    const char * execPath;$/;"	m	language:C++	struct:poptContext_s
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m	language:Make
+exec_prefix	auto/Makefile	/^exec_prefix = ${prefix}$/;"	m	language:Make
+exec_prefix	m4/Makefile	/^exec_prefix = ${prefix}$/;"	m	language:Make
+exec_prefix	po/Makefile	/^exec_prefix = ${prefix}$/;"	m	language:Make
+execs	poptint.h	/^    poptItem execs;$/;"	m	language:C++	struct:poptContext_s
+expandNextArg	popt.c	/^expandNextArg(\/*@special@*\/ poptContext con, const char * s)$/;"	f	language:C	file:	signature:( poptContext con, const char * s)
+fax	test2.c	/^char *fax			= NULL;$/;"	v	language:C
+finalArgv	poptint.h	/^    poptArgv finalArgv;$/;"	m	language:C++	struct:poptContext_s
+finalArgvAlloced	poptint.h	/^    int finalArgvAlloced;$/;"	m	language:C++	struct:poptContext_s
+finalArgvCount	poptint.h	/^    int finalArgvCount;$/;"	m	language:C++	struct:poptContext_s
+findNextArg	popt.c	/^static const char * findNextArg(\/*@special@*\/ poptContext con,$/;"	f	language:C	file:	signature:( poptContext con, unsigned argx, int delete_arg)
+findOption	popt.c	/^findOption(const struct poptOption * opt,$/;"	f	language:C	file:	signature:(const struct poptOption * opt, const char * longName, size_t longNameLen, char shortName, poptCallbackType * callback, const void ** callbackData, unsigned int argInfo)
+findProgramPath	popt.c	/^const char * findProgramPath(\/*@null@*\/ const char * argv0)$/;"	f	language:C	file:	signature:( const char * argv0)
+firstname	test2.c	/^char *firstname			= NULL;$/;"	v	language:C
+flags	poptint.h	/^    unsigned int flags;$/;"	m	language:C++	struct:poptContext_s
+floatp	poptint.h	/^    float * floatp;$/;"	m	language:C++	union:poptArg_u
+func_append	config.status	/^func_append ()$/;"	f	language:Sh
+func_append	configure	/^func_append ()$/;"	f	language:Sh
+func_append	libtool	/^func_append ()$/;"	f	language:Sh
+func_arith	config.status	/^func_arith ()$/;"	f	language:Sh
+func_arith	configure	/^func_arith ()$/;"	f	language:Sh
+func_arith	libtool	/^func_arith ()$/;"	f	language:Sh
+func_basename	config.status	/^func_basename ()$/;"	f	language:Sh
+func_basename	configure	/^func_basename ()$/;"	f	language:Sh
+func_basename	libtool	/^func_basename ()$/;"	f	language:Sh
+func_check_version_match	libtool	/^func_check_version_match ()$/;"	f	language:Sh
+func_check_version_match	ltmain.sh	/^func_check_version_match ()$/;"	f	language:Sh
+func_config	libtool	/^func_config ()$/;"	f	language:Sh
+func_config	ltmain.sh	/^func_config ()$/;"	f	language:Sh
+func_dirname	config.status	/^func_dirname ()$/;"	f	language:Sh
+func_dirname	configure	/^func_dirname ()$/;"	f	language:Sh
+func_dirname	libtool	/^func_dirname ()$/;"	f	language:Sh
+func_dirname_and_basename	config.status	/^func_dirname_and_basename ()$/;"	f	language:Sh
+func_dirname_and_basename	configure	/^func_dirname_and_basename ()$/;"	f	language:Sh
+func_dirname_and_basename	libtool	/^func_dirname_and_basename ()$/;"	f	language:Sh
+func_dirname_and_basename	ltmain.sh	/^func_dirname_and_basename ()$/;"	f	language:Sh
+func_echo	libtool	/^func_echo ()$/;"	f	language:Sh
+func_echo	ltmain.sh	/^func_echo ()$/;"	f	language:Sh
+func_emit_cwrapperexe_src	libtool	/^func_emit_cwrapperexe_src ()$/;"	f	language:Sh
+func_emit_cwrapperexe_src	ltmain.sh	/^func_emit_cwrapperexe_src ()$/;"	f	language:Sh
+func_emit_wrapper	libtool	/^func_emit_wrapper ()$/;"	f	language:Sh
+func_emit_wrapper	ltmain.sh	/^func_emit_wrapper ()$/;"	f	language:Sh
+func_emit_wrapper_part1	libtool	/^func_emit_wrapper_part1 ()$/;"	f	language:Sh
+func_emit_wrapper_part1	ltmain.sh	/^func_emit_wrapper_part1 ()$/;"	f	language:Sh
+func_emit_wrapper_part2	libtool	/^func_emit_wrapper_part2 ()$/;"	f	language:Sh
+func_emit_wrapper_part2	ltmain.sh	/^func_emit_wrapper_part2 ()$/;"	f	language:Sh
+func_enable_tag	libtool	/^func_enable_tag ()$/;"	f	language:Sh
+func_enable_tag	ltmain.sh	/^func_enable_tag ()$/;"	f	language:Sh
+func_error	libtool	/^func_error ()$/;"	f	language:Sh
+func_error	ltmain.sh	/^func_error ()$/;"	f	language:Sh
+func_execute_cmds	libtool	/^func_execute_cmds ()$/;"	f	language:Sh
+func_execute_cmds	ltmain.sh	/^func_execute_cmds ()$/;"	f	language:Sh
+func_extract_an_archive	libtool	/^func_extract_an_archive ()$/;"	f	language:Sh
+func_extract_an_archive	ltmain.sh	/^func_extract_an_archive ()$/;"	f	language:Sh
+func_extract_archives	libtool	/^func_extract_archives ()$/;"	f	language:Sh
+func_extract_archives	ltmain.sh	/^func_extract_archives ()$/;"	f	language:Sh
+func_fatal_configuration	libtool	/^func_fatal_configuration ()$/;"	f	language:Sh
+func_fatal_configuration	ltmain.sh	/^func_fatal_configuration ()$/;"	f	language:Sh
+func_fatal_error	libtool	/^func_fatal_error ()$/;"	f	language:Sh
+func_fatal_error	ltmain.sh	/^func_fatal_error ()$/;"	f	language:Sh
+func_fatal_help	libtool	/^func_fatal_help ()$/;"	f	language:Sh
+func_fatal_help	ltmain.sh	/^func_fatal_help ()$/;"	f	language:Sh
+func_features	libtool	/^func_features ()$/;"	f	language:Sh
+func_features	ltmain.sh	/^func_features ()$/;"	f	language:Sh
+func_generate_dlsyms	libtool	/^func_generate_dlsyms ()$/;"	f	language:Sh
+func_generate_dlsyms	ltmain.sh	/^func_generate_dlsyms ()$/;"	f	language:Sh
+func_grep	libtool	/^func_grep ()$/;"	f	language:Sh
+func_grep	ltmain.sh	/^func_grep ()$/;"	f	language:Sh
+func_help	libtool	/^func_help ()$/;"	f	language:Sh
+func_help	ltmain.sh	/^func_help ()$/;"	f	language:Sh
+func_infer_tag	libtool	/^func_infer_tag ()$/;"	f	language:Sh
+func_infer_tag	ltmain.sh	/^func_infer_tag ()$/;"	f	language:Sh
+func_lalib_p	libtool	/^func_lalib_p ()$/;"	f	language:Sh
+func_lalib_p	ltmain.sh	/^func_lalib_p ()$/;"	f	language:Sh
+func_lalib_unsafe_p	libtool	/^func_lalib_unsafe_p ()$/;"	f	language:Sh
+func_lalib_unsafe_p	ltmain.sh	/^func_lalib_unsafe_p ()$/;"	f	language:Sh
+func_len	config.status	/^func_len ()$/;"	f	language:Sh
+func_len	configure	/^func_len ()$/;"	f	language:Sh
+func_len	libtool	/^func_len ()$/;"	f	language:Sh
+func_lo2o	config.status	/^func_lo2o ()$/;"	f	language:Sh
+func_lo2o	configure	/^func_lo2o ()$/;"	f	language:Sh
+func_lo2o	libtool	/^func_lo2o ()$/;"	f	language:Sh
+func_ltwrapper_executable_p	libtool	/^func_ltwrapper_executable_p ()$/;"	f	language:Sh
+func_ltwrapper_executable_p	ltmain.sh	/^func_ltwrapper_executable_p ()$/;"	f	language:Sh
+func_ltwrapper_p	libtool	/^func_ltwrapper_p ()$/;"	f	language:Sh
+func_ltwrapper_p	ltmain.sh	/^func_ltwrapper_p ()$/;"	f	language:Sh
+func_ltwrapper_script_p	libtool	/^func_ltwrapper_script_p ()$/;"	f	language:Sh
+func_ltwrapper_script_p	ltmain.sh	/^func_ltwrapper_script_p ()$/;"	f	language:Sh
+func_ltwrapper_scriptname	libtool	/^func_ltwrapper_scriptname ()$/;"	f	language:Sh
+func_ltwrapper_scriptname	ltmain.sh	/^func_ltwrapper_scriptname ()$/;"	f	language:Sh
+func_missing_arg	libtool	/^func_missing_arg ()$/;"	f	language:Sh
+func_missing_arg	ltmain.sh	/^func_missing_arg ()$/;"	f	language:Sh
+func_mkdir_p	libtool	/^func_mkdir_p ()$/;"	f	language:Sh
+func_mkdir_p	ltmain.sh	/^func_mkdir_p ()$/;"	f	language:Sh
+func_mktempdir	libtool	/^func_mktempdir ()$/;"	f	language:Sh
+func_mktempdir	ltmain.sh	/^func_mktempdir ()$/;"	f	language:Sh
+func_mode_compile	libtool	/^func_mode_compile ()$/;"	f	language:Sh
+func_mode_compile	ltmain.sh	/^func_mode_compile ()$/;"	f	language:Sh
+func_mode_execute	libtool	/^func_mode_execute ()$/;"	f	language:Sh
+func_mode_execute	ltmain.sh	/^func_mode_execute ()$/;"	f	language:Sh
+func_mode_finish	libtool	/^func_mode_finish ()$/;"	f	language:Sh
+func_mode_finish	ltmain.sh	/^func_mode_finish ()$/;"	f	language:Sh
+func_mode_help	libtool	/^func_mode_help ()$/;"	f	language:Sh
+func_mode_help	ltmain.sh	/^func_mode_help ()$/;"	f	language:Sh
+func_mode_install	libtool	/^func_mode_install ()$/;"	f	language:Sh
+func_mode_install	ltmain.sh	/^func_mode_install ()$/;"	f	language:Sh
+func_mode_link	libtool	/^func_mode_link ()$/;"	f	language:Sh
+func_mode_link	ltmain.sh	/^func_mode_link ()$/;"	f	language:Sh
+func_mode_uninstall	libtool	/^func_mode_uninstall ()$/;"	f	language:Sh
+func_mode_uninstall	ltmain.sh	/^func_mode_uninstall ()$/;"	f	language:Sh
+func_opt_split	config.status	/^func_opt_split ()$/;"	f	language:Sh
+func_opt_split	configure	/^func_opt_split ()$/;"	f	language:Sh
+func_opt_split	libtool	/^func_opt_split ()$/;"	f	language:Sh
+func_quote_for_eval	libtool	/^func_quote_for_eval ()$/;"	f	language:Sh
+func_quote_for_eval	ltmain.sh	/^func_quote_for_eval ()$/;"	f	language:Sh
+func_quote_for_expand	libtool	/^func_quote_for_expand ()$/;"	f	language:Sh
+func_quote_for_expand	ltmain.sh	/^func_quote_for_expand ()$/;"	f	language:Sh
+func_show_eval	libtool	/^func_show_eval ()$/;"	f	language:Sh
+func_show_eval	ltmain.sh	/^func_show_eval ()$/;"	f	language:Sh
+func_show_eval_locale	libtool	/^func_show_eval_locale ()$/;"	f	language:Sh
+func_show_eval_locale	ltmain.sh	/^func_show_eval_locale ()$/;"	f	language:Sh
+func_source	libtool	/^func_source ()$/;"	f	language:Sh
+func_source	ltmain.sh	/^func_source ()$/;"	f	language:Sh
+func_stripname	config.status	/^func_stripname ()$/;"	f	language:Sh
+func_stripname	configure	/^func_stripname ()$/;"	f	language:Sh
+func_stripname	libtool	/^func_stripname ()$/;"	f	language:Sh
+func_to_host_path	libtool	/^func_to_host_path ()$/;"	f	language:Sh
+func_to_host_path	ltmain.sh	/^func_to_host_path ()$/;"	f	language:Sh
+func_to_host_pathlist	libtool	/^func_to_host_pathlist ()$/;"	f	language:Sh
+func_to_host_pathlist	ltmain.sh	/^func_to_host_pathlist ()$/;"	f	language:Sh
+func_usage	libtool	/^func_usage ()$/;"	f	language:Sh
+func_usage	ltmain.sh	/^func_usage ()$/;"	f	language:Sh
+func_verbose	libtool	/^func_verbose ()$/;"	f	language:Sh
+func_verbose	ltmain.sh	/^func_verbose ()$/;"	f	language:Sh
+func_version	libtool	/^func_version ()$/;"	f	language:Sh
+func_version	ltmain.sh	/^func_version ()$/;"	f	language:Sh
+func_warning	libtool	/^func_warning ()$/;"	f	language:Sh
+func_warning	ltmain.sh	/^func_warning ()$/;"	f	language:Sh
+func_win32_libid	libtool	/^func_win32_libid ()$/;"	f	language:Sh
+func_win32_libid	ltmain.sh	/^func_win32_libid ()$/;"	f	language:Sh
+func_write_libtool_object	libtool	/^func_write_libtool_object ()$/;"	f	language:Sh
+func_write_libtool_object	ltmain.sh	/^func_write_libtool_object ()$/;"	f	language:Sh
+func_xform	config.status	/^func_xform ()$/;"	f	language:Sh
+func_xform	configure	/^func_xform ()$/;"	f	language:Sh
+func_xform	libtool	/^func_xform ()$/;"	f	language:Sh
+getArgDescrip	popthelp.c	/^getArgDescrip(const struct poptOption * opt,$/;"	f	language:C	file:	signature:(const struct poptOption * opt, const char * translation_domain)
+getTableTranslationDomain	popthelp.c	/^getTableTranslationDomain(\/*@null@*\/ const struct poptOption *opt)$/;"	f	language:C	file:	signature:( const struct poptOption *opt)
+getenv	system.h	95;"	d	language:C++
+gettextsrcdir	po/Makefile	/^gettextsrcdir = $(datadir)\/gettext\/po$/;"	m	language:Make
+glob_pattern_p	poptconfig.c	/^glob_pattern_p (const char * pattern, int quote)$/;"	f	language:C	file:	signature:(const char * pattern, int quote)
+handleAlias	popt.c	/^static int handleAlias(\/*@special@*\/ poptContext con,$/;"	f	language:C	file:	signature:( poptContext con, const char * longName, size_t longNameLen, char shortName, const char * nextArg)
+handleExec	popt.c	/^static int handleExec(\/*@special@*\/ poptContext con,$/;"	f	language:C	file:	signature:( poptContext con, const char * longName, char shortName)
+hits	tdict.c	/^    unsigned hits;$/;"	m	language:C	struct:__anon2	file:
+host	Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m	language:Make
+host	auto/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m	language:Make
+host	m4/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m	language:Make
+host_alias	Makefile	/^host_alias = $/;"	m	language:Make
+host_alias	auto/Makefile	/^host_alias = $/;"	m	language:Make
+host_alias	m4/Makefile	/^host_alias = $/;"	m	language:Make
+host_cpu	Makefile	/^host_cpu = x86_64$/;"	m	language:Make
+host_cpu	auto/Makefile	/^host_cpu = x86_64$/;"	m	language:Make
+host_cpu	m4/Makefile	/^host_cpu = x86_64$/;"	m	language:Make
+host_os	Makefile	/^host_os = linux-gnu$/;"	m	language:Make
+host_os	auto/Makefile	/^host_os = linux-gnu$/;"	m	language:Make
+host_os	m4/Makefile	/^host_os = linux-gnu$/;"	m	language:Make
+host_triplet	Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m	language:Make
+host_triplet	auto/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m	language:Make
+host_triplet	m4/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m	language:Make
+host_vendor	Makefile	/^host_vendor = unknown$/;"	m	language:Make
+host_vendor	auto/Makefile	/^host_vendor = unknown$/;"	m	language:Make
+host_vendor	m4/Makefile	/^host_vendor = unknown$/;"	m	language:Make
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m	language:Make
+htmldir	auto/Makefile	/^htmldir = ${docdir}$/;"	m	language:Make
+htmldir	m4/Makefile	/^htmldir = ${docdir}$/;"	m	language:Make
+inc	test1.c	/^static int inc = 0;$/;"	v	language:C	file:
+include_HEADERS	Makefile	/^include_HEADERS = popt.h$/;"	m	language:Make
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m	language:Make
+includedir	auto/Makefile	/^includedir = ${prefix}\/include$/;"	m	language:Make
+includedir	m4/Makefile	/^includedir = ${prefix}\/include$/;"	m	language:Make
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m	language:Make
+infodir	auto/Makefile	/^infodir = ${datarootdir}\/info$/;"	m	language:Make
+infodir	m4/Makefile	/^infodir = ${datarootdir}\/info$/;"	m	language:Make
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/install-sh$/;"	m	language:Make
+install_sh	auto/Makefile	/^install_sh = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/install-sh$/;"	m	language:Make
+install_sh	m4/Makefile	/^install_sh = ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/install-sh$/;"	m	language:Make
+install_sh	po/Makefile	/^install_sh = $(SHELL) ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/install-sh$/;"	m	language:Make
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m	language:Make
+install_sh_DATA	auto/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m	language:Make
+install_sh_DATA	m4/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m	language:Make
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m	language:Make
+install_sh_PROGRAM	auto/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m	language:Make
+install_sh_PROGRAM	m4/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m	language:Make
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m	language:Make
+install_sh_SCRIPT	auto/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m	language:Make
+install_sh_SCRIPT	m4/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m	language:Make
+intp	poptint.h	/^    int * intp;$/;"	m	language:C++	union:poptArg_u
+invokeCallbacksOPTION	popt.c	/^static void invokeCallbacksOPTION(poptContext con,$/;"	f	language:C	file:	signature:(poptContext con, const struct poptOption * opt, const struct poptOption * myOpt, const void * myData, int shorty)
+invokeCallbacksPOST	popt.c	/^static void invokeCallbacksPOST(poptContext con, const struct poptOption * opt)$/;"	f	language:C	file:	signature:(poptContext con, const struct poptOption * opt)
+invokeCallbacksPRE	popt.c	/^static void invokeCallbacksPRE(poptContext con, const struct poptOption * opt)$/;"	f	language:C	file:	signature:(poptContext con, const struct poptOption * opt)
+itemHelp	popthelp.c	/^static void itemHelp(FILE * fp,$/;"	f	language:C	file:	signature:(FILE * fp, poptItem items, int nitems, columns_t columns, const char * translation_domain)
+itemUsage	popthelp.c	/^static size_t itemUsage(FILE * fp, columns_t columns,$/;"	f	language:C	file:	signature:(FILE * fp, columns_t columns, poptItem item, int nitems, const char * translation_domain)
+jlu32b	lookup3.c	/^uint32_t jlu32b(uint32_t h, const void *key, size_t size)$/;"	f	language:C	signature:(uint32_t h, const void *key, size_t size)
+jlu32l	lookup3.c	/^uint32_t jlu32l(uint32_t h, const void *key, size_t size)$/;"	f	language:C	signature:(uint32_t h, const void *key, size_t size)
+jlu32lpair	lookup3.c	/^void jlu32lpair(const void *key, size_t size, uint32_t *pc, uint32_t *pb)$/;"	f	language:C	signature:(const void *key, size_t size, uint32_t *pc, uint32_t *pb)
+jlu32lpair	poptint.c	7;"	d	language:C	file:
+jlu32w	lookup3.c	/^uint32_t jlu32w(uint32_t h, const uint32_t *k, size_t size)$/;"	f	language:C	signature:(uint32_t h, const uint32_t *k, size_t size)
+lStr	test1.c	/^static char * lStr =$/;"	v	language:C	file:
+lastname	test2.c	/^char *lastname			= NULL;$/;"	v	language:C
+leftovers	poptint.h	/^    poptArgv leftovers;$/;"	m	language:C++	struct:poptContext_s
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m	language:Make
+libdir	auto/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m	language:Make
+libdir	m4/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m	language:Make
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m	language:Make
+libexecdir	auto/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m	language:Make
+libexecdir	m4/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m	language:Make
+libpopt_la_LDFLAGS	Makefile	/^libpopt_la_LDFLAGS = -no-undefined   \\$/;"	m	language:Make
+libpopt_la_LIBADD	Makefile	/^libpopt_la_LIBADD =$/;"	m	language:Make
+libpopt_la_LINK	Makefile	/^libpopt_la_LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) \\$/;"	m	language:Make
+libpopt_la_OBJECTS	Makefile	/^libpopt_la_OBJECTS = $(am_libpopt_la_OBJECTS)$/;"	m	language:Make
+libpopt_la_SOURCES	Makefile	/^libpopt_la_SOURCES = popt.c poptparse.c poptconfig.c popthelp.c poptint.c$/;"	m	language:Make
+loadDict	tdict.c	/^static int loadDict(const char * fn, poptBits * ap)$/;"	f	language:C	file:	signature:(const char * fn, poptBits * ap)
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m	language:Make
+localedir	auto/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m	language:Make
+localedir	m4/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m	language:Make
+localedir	po/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m	language:Make
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m	language:Make
+localstatedir	auto/Makefile	/^localstatedir = ${prefix}\/var$/;"	m	language:Make
+localstatedir	m4/Makefile	/^localstatedir = ${prefix}\/var$/;"	m	language:Make
+longName	popt.h	/^    const char * longName;	\/*!< may be NULL *\/$/;"	m	language:C++	struct:poptAlias
+longName	popt.h	/^    const char * longName;	\/*!< may be NULL *\/$/;"	m	language:C++	struct:poptOption
+longOptionStrcmp	popt.c	/^longOptionStrcmp(const struct poptOption * opt,$/;"	f	language:C	file:	signature:(const struct poptOption * opt, const char * longName, size_t longNameLen)
+longlongp	poptint.h	/^    long long * longlongp;$/;"	m	language:C++	union:poptArg_u
+longp	poptint.h	/^    long * longp;$/;"	m	language:C++	union:poptArg_u
+lt_ECHO	Makefile	/^lt_ECHO = echo$/;"	m	language:Make
+lt_ECHO	auto/Makefile	/^lt_ECHO = echo$/;"	m	language:Make
+lt_ECHO	m4/Makefile	/^lt_ECHO = echo$/;"	m	language:Make
+main	config.guess	/^		main()$/;"	f	language:Sh
+main	config.guess	/^	main ()$/;"	f	language:Sh
+main	config.guess	/^main ()$/;"	f	language:Sh
+main	lookup3.c	/^int main(int argc, char ** argv)$/;"	f	language:C	signature:(int argc, char ** argv)
+main	tdict.c	/^int main(int argc, const char ** argv)$/;"	f	language:C	signature:(int argc, const char ** argv)
+main	test1.c	/^int main(int argc, const char ** argv)$/;"	f	language:C	signature:(int argc, const char ** argv)
+main	test2.c	/^main(int argc, const char ** argv) {$/;"	f	language:C	signature:(int argc, const char ** argv)
+maincall	poptint.h	/^    int (*maincall) (int argc, const char **argv);$/;"	m	language:C++	struct:poptContext_s
+man3dir	Makefile	/^man3dir = $(mandir)\/man3$/;"	m	language:Make
+man_MANS	Makefile	/^man_MANS = popt.3$/;"	m	language:Make
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m	language:Make
+mandir	auto/Makefile	/^mandir = ${datarootdir}\/man$/;"	m	language:Make
+mandir	m4/Makefile	/^mandir = ${datarootdir}\/man$/;"	m	language:Make
+max	popthelp.c	/^    size_t max;$/;"	m	language:C	struct:columns_s	file:
+maxArgWidth	popthelp.c	/^static size_t maxArgWidth(const struct poptOption * opt,$/;"	f	language:C	file:	signature:(const struct poptOption * opt, const char * translation_domain)
+maxColumnWidth	popthelp.c	/^static size_t maxColumnWidth(FILE *fp)$/;"	f	language:C	file:	signature:(FILE *fp)
+maxopts	popthelp.c	/^    int maxopts;$/;"	m	language:C	struct:poptDone_s	file:
+misses	tdict.c	/^    unsigned misses;$/;"	m	language:C	struct:__anon2	file:
+mkdir_p	Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m	language:Make
+mkdir_p	auto/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m	language:Make
+mkdir_p	m4/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m	language:Make
+mkdir_p	po/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m	language:Make
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m	language:Make
+mkinstalldirs	auto/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m	language:Make
+mkinstalldirs	m4/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m	language:Make
+mkinstalldirs	po/Makefile	/^mkinstalldirs = $(SHELL) ${SHELL} \/home\/ztf\/Downloads\/popt-1.16\/install-sh -d$/;"	m	language:Make
+moreArgs	test1.c	/^static struct poptOption moreArgs[] = {$/;"	v	language:C	typeref:struct:poptOption	file:
+moreCallbackArgs	test1.c	/^static struct poptOption moreCallbackArgs[] = {$/;"	v	language:C	typeref:struct:poptOption	file:
+nStr	test1.c	/^static char * nStr = NULL; $/;"	v	language:C	file:
+nattributes	test1.c	/^static size_t nattributes = (sizeof(attributes) \/ sizeof(attributes[0]));$/;"	v	language:C	file:
+next	poptint.h	/^    int next;$/;"	m	language:C++	struct:optionStackEntry
+nextArg	poptint.h	/^    char * nextArg;$/;"	m	language:C++	struct:optionStackEntry
+nextCharArg	poptint.h	/^    const char * nextCharArg;$/;"	m	language:C++	struct:optionStackEntry
+nextLeftover	poptint.h	/^    int nextLeftover;$/;"	m	language:C++	struct:poptContext_s
+noinst_HEADERS	Makefile	/^noinst_HEADERS = poptint.h system.h$/;"	m	language:Make
+noinst_PROGRAMS	Makefile	/^noinst_PROGRAMS = test1$(EXEEXT) test2$(EXEEXT) tdict$(EXEEXT)$/;"	m	language:Make
+noinst_SCRIPTS	Makefile	/^noinst_SCRIPTS = testit.sh$/;"	m	language:Make
+nopts	popthelp.c	/^    int nopts;$/;"	m	language:C	struct:poptDone_s	file:
+numAliases	poptint.h	/^    int numAliases;$/;"	m	language:C++	struct:poptContext_s
+numExecs	poptint.h	/^    int numExecs;$/;"	m	language:C++	struct:poptContext_s
+numLeftovers	poptint.h	/^    int numLeftovers;$/;"	m	language:C++	struct:poptContext_s
+oStr	test1.c	/^static char * oStr = (char *) -1;$/;"	v	language:C	file:
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m	language:Make
+oldincludedir	auto/Makefile	/^oldincludedir = \/usr\/include$/;"	m	language:Make
+oldincludedir	m4/Makefile	/^oldincludedir = \/usr\/include$/;"	m	language:Make
+opt	poptint.h	/^    poptOption opt;$/;"	m	language:C++	union:poptArg_u
+opt	test1.c	/^		const struct poptOption * opt,$/;"	v	language:C	typeref:struct:poptOption	file:
+option	popt.h	/^    struct poptOption option;	\/*!< alias\/exec name(s) and description. *\/$/;"	m	language:C++	struct:poptItem_s	typeref:struct:poptItem_s::poptOption
+optionStack	poptint.h	/^    struct optionStackEntry optionStack[POPT_OPTION_DEPTH];$/;"	m	language:C++	struct:poptContext_s	typeref:struct:poptContext_s::optionStackEntry
+optionStackEntry	poptint.h	/^struct optionStackEntry {$/;"	s	language:C++
+options	poptint.h	/^    const struct poptOption * options;$/;"	m	language:C++	struct:poptContext_s	typeref:struct:poptContext_s::poptOption
+options	tdict.c	/^static struct poptOption options[] = {$/;"	v	language:C	typeref:struct:poptOption	file:
+options	test1.c	/^static struct poptOption options[] = {$/;"	v	language:C	typeref:struct:poptOption	file:
+opts	popthelp.c	/^    const void ** opts;$/;"	m	language:C	struct:poptDone_s	file:
+os	poptint.h	/^    struct optionStackEntry * os;$/;"	m	language:C++	struct:poptContext_s	typeref:struct:poptContext_s::optionStackEntry
+otherHelp	poptint.h	/^    const char * otherHelp;$/;"	m	language:C++	struct:poptContext_s
+pass2	test1.c	/^static int pass2 = 0;$/;"	v	language:C	file:
+password	test2.c	/^char *password			= NULL;$/;"	v	language:C
+pattern	poptconfig.c	/^static int poptGlob(\/*@unused@*\/ UNUSED(poptContext con), const char * pattern,$/;"	v	language:C	file:
+pbm_set	poptint.h	/^} pbm_set;$/;"	t	language:C++	typeref:struct:__anon1
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m	language:Make
+pdfdir	auto/Makefile	/^pdfdir = ${docdir}$/;"	m	language:Make
+pdfdir	m4/Makefile	/^pdfdir = ${docdir}$/;"	m	language:Make
+pkgconfig_DATA	Makefile	/^pkgconfig_DATA = popt.pc$/;"	m	language:Make
+pkgconfigdir	Makefile	/^pkgconfigdir = $(prefix)\/lib\/pkgconfig$/;"	m	language:Make
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/popt$/;"	m	language:Make
+pkgdatadir	auto/Makefile	/^pkgdatadir = $(datadir)\/popt$/;"	m	language:Make
+pkgdatadir	m4/Makefile	/^pkgdatadir = $(datadir)\/popt$/;"	m	language:Make
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/popt$/;"	m	language:Make
+pkgincludedir	auto/Makefile	/^pkgincludedir = $(includedir)\/popt$/;"	m	language:Make
+pkgincludedir	m4/Makefile	/^pkgincludedir = $(includedir)\/popt$/;"	m	language:Make
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/popt$/;"	m	language:Make
+pkglibdir	auto/Makefile	/^pkglibdir = $(libdir)\/popt$/;"	m	language:Make
+pkglibdir	m4/Makefile	/^pkglibdir = $(libdir)\/popt$/;"	m	language:Make
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/popt$/;"	m	language:Make
+pkglibexecdir	auto/Makefile	/^pkglibexecdir = $(libexecdir)\/popt$/;"	m	language:Make
+pkglibexecdir	m4/Makefile	/^pkglibexecdir = $(libexecdir)\/popt$/;"	m	language:Make
+poptAddAlias	popt.c	/^int poptAddAlias(poptContext con, struct poptAlias alias,$/;"	f	language:C	signature:(poptContext con, struct poptAlias alias, UNUSED(int flags))
+poptAddItem	popt.c	/^int poptAddItem(poptContext con, poptItem newItem, int flags)$/;"	f	language:C	signature:(poptContext con, poptItem newItem, int flags)
+poptAlias	popt.h	/^struct poptAlias {$/;"	s	language:C++
+poptAliasOptions	popthelp.c	/^struct poptOption poptAliasOptions[] = {$/;"	v	language:C	typeref:struct:poptOption
+poptArg	poptint.h	/^} poptArg;$/;"	t	language:C++	typeref:union:poptArg_u
+poptArgInfo	popt.c	/^static unsigned int poptArgInfo(poptContext con, const struct poptOption * opt)$/;"	f	language:C	file:	signature:(poptContext con, const struct poptOption * opt)
+poptArgType	poptint.h	86;"	d	language:C++
+poptArg_u	poptint.h	/^typedef union poptArg_u {$/;"	u	language:C++
+poptArgv	poptint.h	/^typedef poptString * poptArgv;$/;"	t	language:C++
+poptBadOption	popt.c	/^const char * poptBadOption(poptContext con, unsigned int flags)$/;"	f	language:C	signature:(poptContext con, unsigned int flags)
+poptBits	popt.h	/^} * poptBits;$/;"	t	language:C++	typeref:struct:poptBits_s
+poptBitsAdd	popt.c	/^int poptBitsAdd(poptBits bits, const char * s)$/;"	f	language:C	signature:(poptBits bits, const char * s)
+poptBitsArgs	popt.c	/^int poptBitsArgs(poptContext con, poptBits *ap)$/;"	f	language:C	signature:(poptContext con, poptBits *ap)
+poptBitsChk	popt.c	/^int poptBitsChk(poptBits bits, const char * s)$/;"	f	language:C	signature:(poptBits bits, const char * s)
+poptBitsClr	popt.c	/^int poptBitsClr(poptBits bits)$/;"	f	language:C	signature:(poptBits bits)
+poptBitsDel	popt.c	/^int poptBitsDel(poptBits bits, const char * s)$/;"	f	language:C	signature:(poptBits bits, const char * s)
+poptBitsIntersect	popt.c	/^int poptBitsIntersect(poptBits *ap, const poptBits b)$/;"	f	language:C	signature:(poptBits *ap, const poptBits b)
+poptBitsUnion	popt.c	/^int poptBitsUnion(poptBits *ap, const poptBits b)$/;"	f	language:C	signature:(poptBits *ap, const poptBits b)
+poptBits_s	popt.h	/^typedef struct poptBits_s {$/;"	s	language:C++
+poptCallbackReason	popt.h	/^enum poptCallbackReason {$/;"	g	language:C++
+poptCallbackType	popt.h	/^typedef void (*poptCallbackType) (poptContext con, $/;"	t	language:C++
+poptConfigFileToString	poptparse.c	/^int poptConfigFileToString(FILE *fp, char ** argstrp,$/;"	f	language:C	signature:(FILE *fp, char ** argstrp, UNUSED(int flags))
+poptConfigLine	poptconfig.c	/^static int poptConfigLine(poptContext con, char * line)$/;"	f	language:C	file:	signature:(poptContext con, char * line)
+poptContext	popt.h	/^typedef \/*@abstract@*\/ struct poptContext_s * poptContext;$/;"	t	language:C++	typeref:struct:poptContext_s
+poptContext_s	poptint.h	/^struct poptContext_s {$/;"	s	language:C++
+poptDone	popthelp.c	/^} * poptDone;$/;"	t	language:C	typeref:struct:poptDone_s	file:
+poptDone_s	popthelp.c	/^typedef struct poptDone_s {$/;"	s	language:C	file:
+poptDupArgv	poptparse.c	/^int poptDupArgv(int argc, const char **argv,$/;"	f	language:C	signature:(int argc, const char **argv, int * argcPtr, const char *** argvPtr)
+poptFini	poptconfig.c	/^poptFini(poptContext con)$/;"	f	language:C	signature:(poptContext con)
+poptFreeContext	popt.c	/^poptContext poptFreeContext(poptContext con)$/;"	f	language:C	signature:(poptContext con)
+poptFreeItems	popt.c	/^poptItem poptFreeItems(\/*@only@*\/ \/*@null@*\/ poptItem items, int nitems)$/;"	f	language:C	file:	signature:( poptItem items, int nitems)
+poptGetArg	popt.c	/^const char * poptGetArg(poptContext con)$/;"	f	language:C	signature:(poptContext con)
+poptGetArgs	popt.c	/^const char ** poptGetArgs(poptContext con)$/;"	f	language:C	signature:(poptContext con)
+poptGetContext	popt.c	/^poptContext poptGetContext(const char * name, int argc, const char ** argv,$/;"	f	language:C	signature:(const char * name, int argc, const char ** argv, const struct poptOption * options, unsigned int flags)
+poptGetInvocationName	popt.c	/^const char * poptGetInvocationName(poptContext con)$/;"	f	language:C	signature:(poptContext con)
+poptGetNextOpt	popt.c	/^int poptGetNextOpt(poptContext con)$/;"	f	language:C	signature:(poptContext con)
+poptGetOptArg	popt.c	/^char * poptGetOptArg(poptContext con)$/;"	f	language:C	signature:(poptContext con)
+poptGlobFlags	poptconfig.c	/^static int poptGlobFlags = 0;$/;"	v	language:C	file:
+poptGroup	poptint.h	87;"	d	language:C++
+poptHelpOptions	popthelp.c	/^struct poptOption poptHelpOptions[] = {$/;"	v	language:C	typeref:struct:poptOption
+poptHelpOptions2	popthelp.c	/^static struct poptOption poptHelpOptions2[] = {$/;"	v	language:C	typeref:struct:poptOption	file:
+poptHelpOptionsI18N	popthelp.c	/^struct poptOption * poptHelpOptionsI18N = poptHelpOptions2;$/;"	v	language:C	typeref:struct:poptOption
+poptInit	poptconfig.c	/^poptInit(int argc, const char ** argv,$/;"	f	language:C	signature:(int argc, const char ** argv, const struct poptOption * options, const char * configPaths)
+poptItem	popt.h	/^} * poptItem;$/;"	t	language:C++	typeref:struct:poptItem_s
+poptItem_s	popt.h	/^typedef struct poptItem_s {$/;"	s	language:C++
+poptOption	popt.h	/^struct poptOption {$/;"	s	language:C++
+poptOption	popt.h	/^typedef struct poptOption * poptOption;$/;"	t	language:C++	typeref:struct:poptOption
+poptParseArgvString	poptparse.c	/^int poptParseArgvString(const char * s, int * argcPtr, const char *** argvPtr)$/;"	f	language:C	signature:(const char * s, int * argcPtr, const char *** argvPtr)
+poptParseInteger	popt.c	/^static int poptParseInteger(long long * llp,$/;"	f	language:C	file:	signature:(long long * llp, UNUSED(unsigned int argInfo), const char * val)
+poptPeekArg	popt.c	/^const char * poptPeekArg(poptContext con)$/;"	f	language:C	signature:(poptContext con)
+poptPrintHelp	popthelp.c	/^void poptPrintHelp(poptContext con, FILE * fp, \/*@unused@*\/ UNUSED(int flags))$/;"	f	language:C	signature:(poptContext con, FILE * fp, UNUSED(int flags))
+poptPrintUsage	popthelp.c	/^void poptPrintUsage(poptContext con, FILE * fp, \/*@unused@*\/ UNUSED(int flags))$/;"	f	language:C	signature:(poptContext con, FILE * fp, UNUSED(int flags))
+poptReadConfigFile	poptconfig.c	/^int poptReadConfigFile(poptContext con, const char * fn)$/;"	f	language:C	signature:(poptContext con, const char * fn)
+poptReadConfigFiles	poptconfig.c	/^int poptReadConfigFiles(poptContext con, const char * paths)$/;"	f	language:C	signature:(poptContext con, const char * paths)
+poptReadDefaultConfig	poptconfig.c	/^int poptReadDefaultConfig(poptContext con, \/*@unused@*\/ UNUSED(int useEnv))$/;"	f	language:C	signature:(poptContext con, UNUSED(int useEnv))
+poptReadFile	poptconfig.c	/^int poptReadFile(const char * fn, char ** bp, size_t * nbp, int flags)$/;"	f	language:C	signature:(const char * fn, char ** bp, size_t * nbp, int flags)
+poptResetContext	popt.c	/^void poptResetContext(poptContext con)$/;"	f	language:C	signature:(poptContext con)
+poptSaneFile	poptconfig.c	/^int poptSaneFile(const char * fn)$/;"	f	language:C	signature:(const char * fn)
+poptSaveArg	popt.c	/^static int poptSaveArg(poptContext con, const struct poptOption * opt)$/;"	f	language:C	file:	signature:(poptContext con, const struct poptOption * opt)
+poptSaveBits	popt.c	/^int poptSaveBits(poptBits * bitsp,$/;"	f	language:C	signature:(poptBits * bitsp, UNUSED(unsigned int argInfo), const char * s)
+poptSaveInt	popt.c	/^int poptSaveInt(\/*@null@*\/ int * arg, unsigned int argInfo, long aLong)$/;"	f	language:C	signature:( int * arg, unsigned int argInfo, long aLong)
+poptSaveLong	popt.c	/^int poptSaveLong(long * arg, unsigned int argInfo, long aLong)$/;"	f	language:C	signature:(long * arg, unsigned int argInfo, long aLong)
+poptSaveLongLong	popt.c	/^int poptSaveLongLong(long long * arg, unsigned int argInfo, long long aLongLong)$/;"	f	language:C	signature:(long long * arg, unsigned int argInfo, long long aLongLong)
+poptSaveShort	popt.c	/^int poptSaveShort(\/*@null@*\/ short * arg, unsigned int argInfo, long aLong)$/;"	f	language:C	signature:( short * arg, unsigned int argInfo, long aLong)
+poptSaveString	popt.c	/^int poptSaveString(const char *** argvp,$/;"	f	language:C	signature:(const char *** argvp, UNUSED(unsigned int argInfo), const char * val)
+poptSetExecPath	popt.c	/^void poptSetExecPath(poptContext con, const char * path, int allowAbsolute)$/;"	f	language:C	signature:(poptContext con, const char * path, int allowAbsolute)
+poptSetOtherOptionHelp	popthelp.c	/^void poptSetOtherOptionHelp(poptContext con, const char * text)$/;"	f	language:C	signature:(poptContext con, const char * text)
+poptStrerror	popt.c	/^const char * poptStrerror(const int error)$/;"	f	language:C	signature:(const int error)
+poptString	poptint.h	/^typedef const char * poptString;$/;"	t	language:C++
+poptStripArg	popt.c	/^static void poptStripArg(\/*@special@*\/ poptContext con, int which)$/;"	f	language:C	file:	signature:( poptContext con, int which)
+poptStrippedArgv	popt.c	/^int poptStrippedArgv(poptContext con, int argc, char ** argv)$/;"	f	language:C	signature:(poptContext con, int argc, char ** argv)
+poptStuffArgs	popt.c	/^int poptStuffArgs(poptContext con, const char ** argv)$/;"	f	language:C	signature:(poptContext con, const char ** argv)
+poptSubstituteHelpI18N	poptint.h	94;"	d	language:C++
+postal	test2.c	/^char *postal			= NULL;$/;"	v	language:C
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m	language:Make
+prefix	auto/Makefile	/^prefix = \/usr\/local$/;"	m	language:Make
+prefix	m4/Makefile	/^prefix = \/usr\/local$/;"	m	language:Make
+prefix	po/Makefile	/^prefix = \/usr\/local$/;"	m	language:Make
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m	language:Make
+program_transform_name	auto/Makefile	/^program_transform_name = s,x,x,$/;"	m	language:Make
+program_transform_name	m4/Makefile	/^program_transform_name = s,x,x,$/;"	m	language:Make
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f	language:Sh
+prtcon	popt.c	/^static void prtcon(const char *msg, poptContext con)$/;"	f	language:C	file:	signature:(const char *msg, poptContext con)
+prtlong	popthelp.c	337;"	d	language:C	file:
+prtlong	popthelp.c	366;"	d	language:C	file:
+prtlong	popthelp.c	700;"	d	language:C	file:
+prtlong	popthelp.c	735;"	d	language:C	file:
+psdir	Makefile	/^psdir = ${docdir}$/;"	m	language:Make
+psdir	auto/Makefile	/^psdir = ${docdir}$/;"	m	language:Make
+psdir	m4/Makefile	/^psdir = ${docdir}$/;"	m	language:Make
+ptr	poptint.h	/^    void * ptr;$/;"	m	language:C++	union:poptArg_u
+rcfile	test2.c	/^char *rcfile = "createuser-defaults";$/;"	v	language:C
+resetVars	test1.c	/^static void resetVars(void)$/;"	f	language:C	file:	signature:(void)
+restLeftover	poptint.h	/^    int restLeftover;$/;"	m	language:C++	struct:poptContext_s
+run	testit.sh	/^run() {$/;"	f	language:Sh
+run_diff	testit.sh	/^run_diff() {$/;"	f	language:Sh
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m	language:Make
+sbindir	auto/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m	language:Make
+sbindir	m4/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m	language:Make
+seed	popt.c	/^static unsigned int seed = 0;$/;"	v	language:C	file:
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m	language:Make
+sharedstatedir	auto/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m	language:Make
+sharedstatedir	m4/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m	language:Make
+shortName	popt.h	/^    char shortName;		\/*!< may be NUL *\/$/;"	m	language:C++	struct:poptAlias
+shortName	popt.h	/^    char shortName;		\/*!< may be NUL *\/$/;"	m	language:C++	struct:poptOption
+shortopt	test1.c	/^static int shortopt = 0;$/;"	v	language:C	file:
+shortp	poptint.h	/^    short * shortp;$/;"	m	language:C++	union:poptArg_u
+showHelpIntro	popthelp.c	/^static size_t showHelpIntro(poptContext con, FILE * fp)$/;"	f	language:C	file:	signature:(poptContext con, FILE * fp)
+showShortOptions	popthelp.c	/^static size_t showShortOptions(const struct poptOption * opt, FILE * fp,$/;"	f	language:C	file:	signature:(const struct poptOption * opt, FILE * fp, char * str)
+show_option_defaults	popthelp.c	/^static int show_option_defaults = 0;$/;"	v	language:C	file:
+singleDash	test1.c	/^static int singleDash = 0;$/;"	v	language:C	file:
+singleOptionDefaultValue	popthelp.c	/^singleOptionDefaultValue(size_t lineLength,$/;"	f	language:C	file:	signature:(size_t lineLength, const struct poptOption * opt, const char * translation_domain)
+singleOptionHelp	popthelp.c	/^static void singleOptionHelp(FILE * fp, columns_t columns,$/;"	f	language:C	file:	signature:(FILE * fp, columns_t columns, const struct poptOption * opt, const char * translation_domain)
+singleOptionUsage	popthelp.c	/^static size_t singleOptionUsage(FILE * fp, columns_t columns,$/;"	f	language:C	file:	signature:(FILE * fp, columns_t columns, const struct poptOption * opt, const char *translation_domain)
+singleTableHelp	popthelp.c	/^static void singleTableHelp(poptContext con, FILE * fp,$/;"	f	language:C	file:	signature:(poptContext con, FILE * fp, const struct poptOption * table, columns_t columns, const char * translation_domain)
+singleTableUsage	popthelp.c	/^static size_t singleTableUsage(poptContext con, FILE * fp, columns_t columns,$/;"	f	language:C	file:	signature:(poptContext con, FILE * fp, columns_t columns, const struct poptOption * opt, const char * translation_domain, poptDone done)
+srcdir	Makefile	/^srcdir = .$/;"	m	language:Make
+srcdir	auto/Makefile	/^srcdir = .$/;"	m	language:Make
+srcdir	m4/Makefile	/^srcdir = .$/;"	m	language:Make
+srcdir	po/Makefile	/^srcdir = .$/;"	m	language:Make
+state	test2.c	/^char *state			= NULL;$/;"	v	language:C
+stpcpy	system.h	/^static inline char * stpcpy (char *dest, const char * src) {$/;"	f	language:C++	signature:(char *dest, const char * src)
+strdup_locale_from_utf8	poptint.c	/^strdup_locale_from_utf8 (\/*@null@*\/ char * istr)$/;"	f	language:C	file:	signature:( char * istr)
+strerror	popt.c	/^static char * strerror(int errno)$/;"	f	language:C	file:	signature:(int errno)
+stringDisplayWidth	popthelp.c	/^static inline size_t stringDisplayWidth(const char *s)$/;"	f	language:C	file:	signature:(const char *s)
+stuffed	poptint.h	/^    int stuffed;$/;"	m	language:C++	struct:optionStackEntry
+subdir	Makefile	/^subdir = .$/;"	m	language:Make
+subdir	auto/Makefile	/^subdir = auto$/;"	m	language:Make
+subdir	m4/Makefile	/^subdir = m4$/;"	m	language:Make
+subdir	po/Makefile	/^subdir = po$/;"	m	language:Make
+subdirs	Makefile	/^subdirs =  $/;"	m	language:Make
+subdirs	auto/Makefile	/^subdirs =  $/;"	m	language:Make
+subdirs	m4/Makefile	/^subdirs =  $/;"	m	language:Make
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m	language:Make
+sysconfdir	auto/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m	language:Make
+sysconfdir	m4/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m	language:Make
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m	language:Make
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | bzip2 -9 -c >$(distdir).tar.bz2$/;"	m	language:Make
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m	language:Make
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzma -9 -c >$(distdir).tar.lzma$/;"	m	language:Make
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | xz -c >$(distdir).tar.xz$/;"	m	language:Make
+target	Makefile	/^target = x86_64-unknown-linux-gnu$/;"	m	language:Make
+target	auto/Makefile	/^target = x86_64-unknown-linux-gnu$/;"	m	language:Make
+target	m4/Makefile	/^target = x86_64-unknown-linux-gnu$/;"	m	language:Make
+target_alias	Makefile	/^target_alias = $/;"	m	language:Make
+target_alias	auto/Makefile	/^target_alias = $/;"	m	language:Make
+target_alias	m4/Makefile	/^target_alias = $/;"	m	language:Make
+target_cpu	Makefile	/^target_cpu = x86_64$/;"	m	language:Make
+target_cpu	auto/Makefile	/^target_cpu = x86_64$/;"	m	language:Make
+target_cpu	m4/Makefile	/^target_cpu = x86_64$/;"	m	language:Make
+target_os	Makefile	/^target_os = linux-gnu$/;"	m	language:Make
+target_os	auto/Makefile	/^target_os = linux-gnu$/;"	m	language:Make
+target_os	m4/Makefile	/^target_os = linux-gnu$/;"	m	language:Make
+target_triplet	Makefile	/^target_triplet = x86_64-unknown-linux-gnu$/;"	m	language:Make
+target_triplet	auto/Makefile	/^target_triplet = x86_64-unknown-linux-gnu$/;"	m	language:Make
+target_triplet	m4/Makefile	/^target_triplet = x86_64-unknown-linux-gnu$/;"	m	language:Make
+target_vendor	Makefile	/^target_vendor = unknown$/;"	m	language:Make
+target_vendor	auto/Makefile	/^target_vendor = unknown$/;"	m	language:Make
+target_vendor	m4/Makefile	/^target_vendor = unknown$/;"	m	language:Make
+tdict_DEPENDENCIES	Makefile	/^tdict_DEPENDENCIES = $(usrlib_LTLIBRARIES)$/;"	m	language:Make
+tdict_LDADD	Makefile	/^tdict_LDADD = $(usrlib_LTLIBRARIES)$/;"	m	language:Make
+tdict_LDFLAGS	Makefile	/^tdict_LDFLAGS = $/;"	m	language:Make
+tdict_LINK	Makefile	/^tdict_LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m	language:Make
+tdict_OBJECTS	Makefile	/^tdict_OBJECTS = $(am_tdict_OBJECTS)$/;"	m	language:Make
+tdict_SOURCES	Makefile	/^tdict_SOURCES = tdict.c$/;"	m	language:Make
+test1_DEPENDENCIES	Makefile	/^test1_DEPENDENCIES = $(usrlib_LTLIBRARIES)$/;"	m	language:Make
+test1_LDADD	Makefile	/^test1_LDADD = $(usrlib_LTLIBRARIES)$/;"	m	language:Make
+test1_LDFLAGS	Makefile	/^test1_LDFLAGS = $/;"	m	language:Make
+test1_LINK	Makefile	/^test1_LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m	language:Make
+test1_OBJECTS	Makefile	/^test1_OBJECTS = $(am_test1_OBJECTS)$/;"	m	language:Make
+test1_SOURCES	Makefile	/^test1_SOURCES = test1.c$/;"	m	language:Make
+test2_DEPENDENCIES	Makefile	/^test2_DEPENDENCIES = $(usrlib_LTLIBRARIES)$/;"	m	language:Make
+test2_LDADD	Makefile	/^test2_LDADD = $(usrlib_LTLIBRARIES)$/;"	m	language:Make
+test2_LDFLAGS	Makefile	/^test2_LDFLAGS = $/;"	m	language:Make
+test2_LINK	Makefile	/^test2_LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m	language:Make
+test2_OBJECTS	Makefile	/^test2_OBJECTS = $(am_test2_OBJECTS)$/;"	m	language:Make
+test2_SOURCES	Makefile	/^test2_SOURCES = test2.c$/;"	m	language:Make
+test_varargs_macros	configure	/^  test_varargs_macros ();$/;"	f	language:Sh
+top_build_prefix	Makefile	/^top_build_prefix = $/;"	m	language:Make
+top_build_prefix	auto/Makefile	/^top_build_prefix = ..\/$/;"	m	language:Make
+top_build_prefix	m4/Makefile	/^top_build_prefix = ..\/$/;"	m	language:Make
+top_builddir	Makefile	/^top_builddir = .$/;"	m	language:Make
+top_builddir	auto/Makefile	/^top_builddir = ..$/;"	m	language:Make
+top_builddir	m4/Makefile	/^top_builddir = ..$/;"	m	language:Make
+top_builddir	po/Makefile	/^top_builddir = ..$/;"	m	language:Make
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m	language:Make
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m	language:Make
+top_srcdir	auto/Makefile	/^top_srcdir = ..$/;"	m	language:Make
+top_srcdir	m4/Makefile	/^top_srcdir = ..$/;"	m	language:Make
+top_srcdir	po/Makefile	/^top_srcdir = ..$/;"	m	language:Make
+total	tdict.c	/^    unsigned total;$/;"	m	language:C	struct:__anon2	file:
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m	language:Make
+transform	auto/Makefile	/^transform = $(program_transform_name)$/;"	m	language:Make
+transform	m4/Makefile	/^transform = $(program_transform_name)$/;"	m	language:Make
+txHost	test2.c	/^char *txHost			= NULL;$/;"	v	language:C
+txSslPort	test2.c	/^int   txSslPort			= 443;$/;"	v	language:C
+txStoreId	test2.c	/^int   txStoreId			= 0;$/;"	v	language:C
+uc	lookup3.c	/^    const unsigned char uc[4];$/;"	m	language:C	union:_dbswap	file:
+ui	lookup3.c	/^    const uint32_t ui;$/;"	m	language:C	union:_dbswap	file:
+username	test2.c	/^char *username=NULL;$/;"	v	language:C
+usrlib_LTLIBRARIES	Makefile	/^usrlib_LTLIBRARIES = libpopt.la$/;"	m	language:Make
+usrlibdir	Makefile	/^usrlibdir = $(libdir)$/;"	m	language:Make
+utf8_skip_data	poptint.c	/^static const unsigned char utf8_skip_data[256] = {$/;"	v	language:C	file:
+val	popt.h	/^    int val;			\/*!< 0 means don't return, just update flag *\/$/;"	m	language:C++	struct:poptOption
+vmefail	system.h	82;"	d	language:C++
+xcalloc	system.h	84;"	d	language:C++
+xcalloc	system.h	89;"	d	language:C++
+xmalloc	system.h	83;"	d	language:C++
+xmalloc	system.h	88;"	d	language:C++
+xrealloc	system.h	85;"	d	language:C++
+xrealloc	system.h	90;"	d	language:C++
+xstrdup	system.h	86;"	d	language:C++
+xstrdup	system.h	91;"	d	language:C++
